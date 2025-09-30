@@ -1,0 +1,39 @@
+[
+  {
+    "text": "DIAGNOSIS",
+    "suffix_key": "d",
+    "background_color": "#FF6666",
+    "text_color": "#ffffff"
+  },
+  {
+    "text": "SYMPTOM",
+    "suffix_key": "s",
+    "background_color": "#FFCC66",
+    "text_color": "#000000"
+  },
+  {
+    "text": "SIGN",
+    "suffix_key": "g",
+    "background_color": "#66CCFF",
+    "text_color": "#000000"
+  },
+  {
+    "text": "PROCEDURE",
+    "suffix_key": "p",
+    "background_color": "#99CC00",
+    "text_color": "#000000"
+  },
+  {
+    "text": "TEST_RESULT",
+    "suffix_key": "t",
+    "background_color": "#CC99FF",
+    "text_color": "#000000"
+  },
+  {
+    "text": "MEDICATION",
+    "suffix_key": "m",
+    "background_color": "#FF99CC",
+    "text_color": "#000000"
+  }
+]
+
