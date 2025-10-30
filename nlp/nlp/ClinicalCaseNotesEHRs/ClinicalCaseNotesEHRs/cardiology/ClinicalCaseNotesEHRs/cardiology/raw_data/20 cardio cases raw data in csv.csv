@@ -1,0 +1,3878 @@
+ID,text
+case_001,"subject_id=54217 | hadm_id=128746
+
+Admission Date:  [**2192-8-1**]              Discharge Date:   [**2192-8-2**]
+
+Date of Birth:  [**2143-7-5**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Drug Allergy Information on File
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+GI Bleed
+
+Major Surgical or Invasive Procedure:
+[**Last Name (un) **] placement
+Central line placement
+
+History of Present Illness:
+Briefly, pt is a 49yo man with h/o EtOH abuse who was found down
+in cardiac arrest by his wife at home. EMS was called, who noted
+PEA and initiated CPR. He was unable to be intubated in the
+field, so he was taken to the closest ED. There CPR was
+continued and after a fourth round of epinephrine, cardiac
+rhythm became VT/VF, for which he was shocked into sinus
+tachycardia with a pulse. He was intubated, and when OG tube was
+placed 6+ liters of bright red blood were suctioned from his
+upper GI tract. Labs there were significant for anemia and
+thrombocytopenia, acute renal failure, metabolic acidosis (pH
+6.80), elevated CK with evidence of myocardial infarction, liver
+failure, and coagulopathy. He was resuscitated with blood
+products including PRBCs and FFP, in addition to IV fluids with
+lactated ringers and normal saline, as well as vasopressor
+support with Levophed. He developed hyperkalemia and required
+calcium gluconate and bicarbonate. Once he was stabilized,
+transfer to [**Hospital1 18**] MICU was arranged, and we were consulted for
+possible upper endoscopy to assess variceal hemorrhage and for
+probable placement of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] tube.
+.
+On arrival to the floor, SBP dropped to the 60s, requiring
+additional vasopressor support, blood products, and IV fluid
+resuscitation.
+
+
+Past Medical History:
+EtOH Abuse
+prior acute variceal hemorrhage
+
+Social History:
+unknown
+
+Family History:
+unknown
+
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS: hypothermic, HR 86, NBP 69/35, ABP 81/48, R 14, SaO2 100%
+Vent: AC - 500 x 14 / peep 5 / 100% FiO2
+General: intubated
+HEENT: pupils dilated and non-responsive, sclerae anicteric,
+blood pooling in oropharynx
+Lungs: CTA bilat, no r/rh/wh
+Heart: RRR, nl S1-S2, no murmurs
+Abdomen: decreased BS, soft/NT/ND, no HSM
+Extrem: no edema
+Skin: no jaundice
+Neuro: GCS 3
+
+
+Pertinent Results:
+ADMISSION LABS
+[**2192-8-1**] 09:46PM BLOOD WBC-6.0 RBC-2.58* Hgb-8.3* Hct-26.8*
+MCV-104* MCH-32.0 MCHC-30.8* RDW-14.7 Plt Ct-48*
+[**2192-8-1**] 09:46PM BLOOD Plt Ct-48*
+[**2192-8-1**] 09:46PM BLOOD PT-27.1* PTT-150* INR(PT)-2.6*
+[**2192-8-1**] 09:46PM BLOOD Fibrino-54*
+[**2192-8-1**] 09:46PM BLOOD Glucose-347* UreaN-37* Creat-2.9* Na-137
+K-7.6* Cl-100 HCO3-10* AnGap-35*
+[**2192-8-1**] 09:46PM BLOOD Fibrino-54*
+[**2192-8-1**] 09:46PM BLOOD ALT-435* AST-1587* LD(LDH)-2640*
+CK(CPK)-5515* AlkPhos-87 TotBili-1.7*
+[**2192-8-1**] 09:46PM BLOOD CK-MB-95* MB Indx-1.7 cTropnT-0.36*
+[**2192-8-1**] 09:46PM BLOOD Albumin-1.6* Calcium-7.5* Phos-16.9*
+Mg-3.4*
+[**2192-8-1**] 10:09PM BLOOD Type-ART pO2-454* pCO2-51* pH-6.79*
+calTCO2-9* Base XS--29
+[**2192-8-1**] 09:55PM BLOOD Lactate-18.0*
+[**2192-8-1**] 10:09PM BLOOD O2 Sat-98
+[**2192-8-1**] 10:09PM BLOOD freeCa-0.47*
+
+Brief Hospital Course:
+#) GI Bleed/Hypovolemic Shock: Upon arriving to the MICU, the
+patient was started on a massive transfusion protocol.
+Including the pt's time at the OSH and on transport, the patient
+received a total of 15 units of pRBCs (7 here), 10 units of FFP
+(4 here), and 2 units of cryoprecipitate here.  The patient also
+received Vitamin K on transfer, and received 1 unit of platelets
+here at [**Hospital1 18**].  His blood pressure was supported with maximum
+doses of levophed, neosynephrine, and vasopressin.  He was also
+bolused with NS to help support his pressure.
+
+#) Hyperkalemia: This was secondary to the profound time he was
+down and his acidosis.  He was treated with insulin and D50 x 2
+at [**Hospital1 18**], and x 2 during transport.  He was also given 2 amps of
+CaCl, had 4g of Calcium gluconate, and also received CaCl on
+transport.  His tele was monitored which showed QRS widening,
+however no peaked T waves.
+
+#) Metabolic acidosis: Pt had a profound lactic acidosis [**1-24**]
+down time.  His lactate was in the 50s at the OSH, and this came
+down to the upper teens with hydration here.
+
+#) Renal failure: Pt had a Cr of 2.9 upon admission to the MICU.
+
+Medications on Admission:
+Unknown
+
+Discharge Medications:
+n/a
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Deceased
+
+Discharge Condition:
+Deceased
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+
+Completed by:[**2192-8-2**]"
+case_002,"subject_id=69843 | hadm_id=198429
+
+Admission Date:  [**2155-6-27**]              Discharge Date:   [**2155-6-27**]
+
+
+Service: MEDICINE
+
+Allergies:
+No Allergies/ADRs on File
+
+Attending:[**First Name3 (LF) 2763**]
+Chief Complaint:
+Unresponsive, cardiac arrest
+
+Major Surgical or Invasive Procedure:
+CPR, intubation
+
+History of Present Illness:
+87 year old man with a history of CAD s/p MI and stent, bladder
+carcinoma in situ, who presents from nursing home found to be
+unresponsive and found to be in cardiac arrest. Per collateral
+history, he was receiving treatment for a UTI with ciprofloxacin
+and azithromycin but otherwise in his usual state of health when
+he was found to be unresponsive this morning at his nursing
+home. EMS was called and CPR was initiated in the field. An
+intraosseous line was placed and he was intubated and CPR was
+initiated. CPR was continued for 30 minutes with one round of
+ACLS achieved at nursing home. He arrived to the ED undergoing
+chest compressions.
+.
+In the ED, he was found to have a pH 6.94/83/329, and lactate of
+14.6, and HCT of 19.7, INR of 3.7, PLTs of 47. A nonsterile
+femoral line was placed. 2 chest tubes were placed bilaterally
+for emperic PTX treatment. A bedside echo was done by cardiology
+which was apparently unremarkable. He was given 1gm epinephrine
+boluses 7 times, 2 amps of sodium bicarbonate, and was started
+on a levophed gtt, dopamine gtt, neosynephrine gtt, and
+epinephrine gtt, and he was given 3L of NS, and 1 unit of blood
+hanging. He lost his pulse twice, second time at 1115 but
+responded to one last round of epi, making a total of 8 rounds.
+His last set of vitals 130/90 HR 80s 100% on vent 15, FIO2 100%,
+PEEP 5, Rate of 20.
+.
+In the MICU, he arrives intubated, sedated and with a pulse. His
+initial vitals were BP 107/40, HR 60. Given the patient's
+advanced age, lactate of 14.6, pH of 6.94, tenous blood
+pressures despite 4 pressors, the MICU team has decided to not
+escalate care and deem his code status as DNR/DNI as CPR is not
+indicated. He was given 3L of NS, 2 unit of PRBCs.
+
+
+Past Medical History:
+1) Hypertension
+2) Myocardial infarction s/p PCI
+3) Coronary artery disease
+4) Bladder carcinoma in situ, hematuria
+.
+
+
+Social History:
+Lives in nursing home. Daughter [**Known firstname 15485**] is HCP. Unable to obtain
+further.
+
+Family History:
+unable to obtain
+
+Physical Exam:
+On admission:
+VS: Temp: BP: / HR: RR: O2sat
+GEN: Intubated, sedated, thin elderly man
+HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no
+CV: RR, S1 and S2 wnl, no m/r/g
+RESP: Diffuse, heavy rhonchi bilaterally
+ABD: distended, soft, nt, no masses or hepatosplenomegaly, no BS
+
+EXT: no c/c/e
+SKIN: no rashes/no jaundice/no splinters
+NEURO: Intubated, sedated
+.
+On discharge: expired
+
+Pertinent Results:
+[**2155-6-27**] 10:45AM BLOOD WBC-8.4 RBC-2.32* Hgb-5.8* Hct-19.7*
+MCV-85 MCH-25.0* MCHC-29.4* RDW-15.9* Plt Ct-47*
+[**2155-6-27**] 10:45AM BLOOD Plt Smr-VERY LOW Plt Ct-47*
+[**2155-6-27**] 10:45AM BLOOD PT-36.8* PTT-27.2 INR(PT)-3.7*
+[**2155-6-27**] 10:45AM BLOOD UreaN-62* Creat-1.7*
+[**2155-6-27**] 10:45AM BLOOD Lipase-16
+[**2155-6-27**] 10:49AM BLOOD Type-ART pO2-329* pCO2-83* pH-6.94*
+calTCO2-19* Base XS--16
+[**2155-6-27**] 10:49AM BLOOD Glucose-342* Lactate-14.6* Na-143 K-4.7
+Cl-113*
+[**2155-6-27**] 10:49AM BLOOD Hgb-7.0* calcHCT-21 O2 Sat-97 COHgb-2
+MetHgb-0
+[**2155-6-27**] 10:49AM BLOOD freeCa-2.06*
+.
+CXR:
+1. Small bilateral pneumothoraces with bilateral chest tubes in
+place.
+
+2. Endotracheal tube tip terminates 2.6 cm from the carina, and
+is slightly
+low lying.
+
+3. Diffuse airspace opacities bilaterally, which may reflect
+pulmonary edema,
+but an underlying infectious process cannot be excluded.
+
+
+Brief Hospital Course:
+87 year old man with a history of CAD s/p MI and stent, bladder
+carcinoma in situ, who presents from nursing home found to be
+unresponsive and found to be in cardiac arrest.  Most likely
+etiology of PEA was hypovolemic blood loss given presenting HCT
+of 19.7 which is 20 points down from baseline (down from 37 on
+[**2155-6-17**] per nsg home records). Would consider blood loss from
+bladder CA/hematuria history, vs occult GI bleed. Consider QT
+prolongation from recent cipro vs aspiration PNA/hypoxia as
+other etiologies. Patient initially with an extremely poor
+prognosis, with a lactate of 14.6, pH of 6.94, on four pressors
+and MAPs of 50s, incompatible with life and consistent with
+diffuse cell death.  Urgent family meeting was held and decision
+was made to make the patient DNR/DNI.  He expired shortly
+thereafter with family at bedside.  Patient's PCP was [**Name (NI) 653**].
+
+Medications on Admission:
+
+1) ASA 325mg PO daily
+2) Atenolol 25mg PO daily
+3) Plavix 75mg PO daily
+4) Colace 100mg PO BID
+5) Proscar 5mg PO daily
+6) Imdur 30mg PO daily
+7) Senna 8.6mg PO daily
+8) Flomax 0.4mg PO daily
+9) Oxybutynin 5mg PO Q6H PRN bladder spasm
+10) Ciprofloxacin 500mg PO BID [**6-23**]
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Cardiac arrest
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+n/a
+
+Followup Instructions:
+n/a
+
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number(2) 2764**]"
+case_003,"subject_id=88306 | hadm_id=110067
+
+Admission Date:  [**2103-3-17**]              Discharge Date:   [**2103-3-17**]
+
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 338**]
+Chief Complaint:
+status post cardiac arrest
+
+Major Surgical or Invasive Procedure:
+Chest tube
+Arterial line
+Central line
+
+History of Present Illness:
+[**Age over 90 **] year old female with a history of atrial fibrillation, CAD
+s/p MI, PVD, CVA who presents s/p cardiac arrest.  Pt was found
+down at a rehab facility.  EMT was called when she was found
+down in the nursing home.  She was intubated in the field and
+was noted to be in PEA arrest.  CPR was performed and she was
+given epinephrine and atropine x 3.  CPR performed by EMTs and
+3Xepi plus 3X atropine.  In our ED CPR continued for 2-3 mins
+and then regained pulse. Noted to have crepitis likely from CPR
+on left so got a left sided chest tube. ETT pulled back because
+in right main stem. CXR good placement ETT after pulling back.
+EKG afib with wide QRS but cards thought from acidemia.  Pupils
+fixed. Right CVL Fem line placed (initially had IO line). VBG
+6.76/58/76/9. Got an amp bicarb and on a bicarb drip at 150ml an
+hour. 2 units ffp ordered as well as two units prbcs. Had CT
+head negative for bleed. Hypotensive in Ed (70/40) so started
+levophed drip. VS prior to transfer: 101/62 levo on
+1.2mc/kg/min. Temp rectally 96.6. HR 106 101/62 vented 450X18.
+.
+
+
+Past Medical History:
+CHF with EF of 75% from echo
+Atrial Fib on coumadin
+s/p PCM
+CAD s/p MI in 79
+DM II (diet controlled )
+Multiple CVA
+PVD s/p femoral embolectomy
+
+Social History:
+Pt lives in [**Location **] and is independant of ADLs.  Communication:
+Patient via russian interpreter.  Grand Niece & HCP-- [**Name (NI) 83407**]
+[**Telephone/Fax (1) 83408**] cell [**Telephone/Fax (1) 83409**]
+[**Female First Name (un) 83410**] Daughter & 2nd HCP-- [**Telephone/Fax (1) 83411**]
+NH-->[**Telephone/Fax (1) **]
+
+
+Family History:
+NC
+
+Physical Exam:
+General: Intubated, sedated
+HEENT: Pupils fixed, non-reactive, MM dry
+Neck: No LAD
+Lungs: Diffuse rhonchi
+CV: Tachy, heart sounds obscured by diffuse rhonchi
+Abdomen: Firm, distended, hypoactive bowel sounds
+Ext: Cool, no edema
+
+
+Pertinent Results:
+[**2103-3-17**] 01:24PM   TYPE-ART PH-7.21*
+[**2103-3-17**] 01:24PM   freeCa-1.02*
+[**2103-3-17**] 12:10PM   TYPE-ART PO2-174* PCO2-37 PH-7.18* TOTAL
+CO2-15* BASE XS--13
+[**2103-3-17**] 12:10PM   TYPE-ART PO2-174* PCO2-37 PH-7.18* TOTAL
+CO2-15* BASE XS--13
+[**2103-3-17**] 12:10PM   LACTATE-13.1*
+[**2103-3-17**] 12:10PM   freeCa-0.63*
+[**2103-3-17**] 11:56AM   TYPE-ART PO2-48* PCO2-62* PH-7.03* TOTAL
+CO2-18* BASE XS--16
+[**2103-3-17**] 11:56AM   LACTATE-13.9*
+[**2103-3-17**] 11:56AM   freeCa-0.88*
+[**2103-3-17**] 11:14AM   LACTATE-14.2*
+[**2103-3-17**] 11:14AM   LACTATE-14.2*
+[**2103-3-17**] 11:14AM   freeCa-0.89*
+[**2103-3-17**] 11:13AM   GLUCOSE-124* UREA N-45* CREAT-1.9*
+SODIUM-151* POTASSIUM-5.8* CHLORIDE-114* TOTAL CO2-13* ANION
+GAP-30*
+[**2103-3-17**] 11:13AM   GLUCOSE-299* UREA N-39* CREAT-1.7*
+SODIUM-149* POTASSIUM-5.7* CHLORIDE-111* TOTAL CO2-11* ANION
+GAP-33*
+[**2103-3-17**] 11:13AM   ALT(SGPT)-414* AST(SGOT)-942* LD(LDH)-2219*
+CK(CPK)-284* ALK PHOS-76 TOT BILI-1.2
+[**2103-3-17**] 11:13AM   ALT(SGPT)-399* AST(SGOT)-947* LD(LDH)-1891*
+CK(CPK)-386* ALK PHOS-53 TOT BILI-1.1
+[**2103-3-17**] 11:13AM   CK-MB-26* MB INDX-9.2* cTropnT-0.50*
+[**2103-3-17**] 11:13AM   CK-MB-35* MB INDX-9.1 cTropnT-0.66*
+[**2103-3-17**] 11:13AM   WBC-7.0 RBC-3.14* HGB-9.0* HCT-30.3* MCV-97
+MCH-28.8 MCHC-29.8* RDW-19.0*
+[**2103-3-17**] 11:13AM   WBC-5.4 RBC-1.90*# HGB-5.6*# HCT-18.4*#
+MCV-97 MCH-29.3 MCHC-30.4* RDW-18.4*
+[**2103-3-17**] 11:13AM   HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-2+
+MACROCYT-2+ MICROCYT-1+ POLYCHROM-1+ BURR-OCCASIONAL
+STIPPLED-OCCASIONAL PAPPENHEI-OCCASIONAL
+[**2103-3-17**] 11:13AM   NEUTS-75* BANDS-1 LYMPHS-16* MONOS-3 EOS-0
+BASOS-0 ATYPS-0 METAS-5* MYELOS-0 NUC RBCS-4*
+[**2103-3-17**] 11:13AM   PT-30.8* PTT-150* INR(PT)-3.1*
+[**2103-3-17**] 11:13AM   PT-24.2* PTT-150* INR(PT)-2.3*
+
+Brief Hospital Course:
+On arrival to MICU, she was noted to be persistently hypotensive
+despite max levophed.  Started on vasopressin followed by
+escalating neosynephrine.  With severe metabolic acidosis
+6.76/58/76 with lacate peak at 14.2, given 2 amps bicarb
+followed by bicarb drip.  Also given FFP given severe
+coagulopathy and concern for bleed (hct down to 18.4 from
+baseline ~30s).  In setting of blood products with worsening
+oxygenation with desaturations to 85% on FiO2 100%, PEEP 15. The
+patient was continued on three pressors for blood pressure
+support and her BP still remained low.
+
+The health care proxy was called to bedside. The patient was s/p
+cardiac arrest and in DIC, unable to be cooled. She remained
+hypotensive despite maximal pressors. After discussions with the
+housestaff and attending physician, [**Name10 (NameIs) **] health care proxy did
+not wish to further escalate care and made the patient DNR. The
+patient died of PEA cardiac arrest with her HCP at her side.
+
+The case was referred to the medical examiner, however, the
+medical examiner declined the case. The family did not want an
+autopsy.
+
+Medications on Admission:
+Unknown
+
+Discharge Medications:
+n/a
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+-Sepsis, multisystem organ failure
+-status post cardiac arrest
+-disseminated intravascular cogulation
+
+Discharge Condition:
+Expired, not applicable
+
+Discharge Instructions:
+Expired
+
+Followup Instructions:
+Expired"
+case_004,"subject_id=93842 | hadm_id=132151
+
+Admission Date:  [**2163-8-11**]              Discharge Date:   [**2163-8-12**]
+
+Date of Birth:  [**2086-9-2**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 7651**]
+Chief Complaint:
+Cardiac arrest
+
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 76 year old gentleman with a PMH significant
+for DM 2, HTN, and hyperlipidemia transferred from an OSH after
+cardiac arrest. The patient initially presented to an OSH last
+night after a witnessed cardiac arrest whiel eating dinner.
+Bystander CPR was performed and EMS arrived 14 minutes after
+receiving the initial 911 call.  Per EMS report, patient was in
+PEA with unknown rate on application of AED.  Atropine, 1 mg
+1:10,000 epi, 100 mg lidocaine bolus followed by infusion were
+given pre-hospital, and the patient was intubated.
+Approximately 7 minutes after EMS arrival on-scene, the patient
+was noted to be in VF and was defibrillated with 360 J with ROSC
+with sinus rythmn.
+.
+Upon arrival to the OSH ([**Hospital3 **]), the patient was noted
+to be in a sinus rhythmn.  Overnight, he required levophed for
+hypotension that was weaned off this morning, and was also noted
+to be bradycardic to the 40s, and received an IV amiodarone load
+and heparin gtt.  He was also noted to have a rectal temperature
+of 100 degrees, and remained unresponsive off sedation.  A
+non-contrast CTH was negative for acute intracranial process and
+a CTA chest was negative for pulmonary emboli.
+.
+Of note, the patient recently presented to the [**Hospital1 18**] ED with
+chest pain and unilateral leg swelling. Due to an elevated
+d-dimer, a CTA was performed that was negative for PE.  The
+patient then had an ETT that was negative (6.7 METS, 13 minutes
+on [**Doctor Last Name 4001**] protocol) and was discharged home.
+.
+Currently, the patient is intubated and unresponsive.
+.
+Complete ROS and cardiac ROS unobtainable as patient is
+intubated and unresponsive.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: DM 2, Hyperlipidemia, Hypertension
+2. CARDIAC HISTORY:
+- ETT [**7-27**] negative
+3. OTHER PAST MEDICAL HISTORY:
+Elevatd PSA, not yet worked up but followed by Dr. [**Last Name (STitle) 33427**].
+.
+
+
+Social History:
+He is a professor emeritus at [**University/College **]. He lives alone. He quit
+smoking tobacco ""years ago"", but occasionally has a cigar.  He
+drinks alcohol occasionally on a social basis.  He denied
+illicit drug use.
+
+
+Family History:
+Father with Alzheimer's and mother with [**Name (NI) 5895**].
+
+
+Physical Exam:
+VS: 101 50 94/49 14 100% 550x14, 5, 50%
+Gen: Intubated male, unresponsive
+HEENT: Pupils 2mm, sluggish (R more reactive than L), sclerae
+anicteric. ETT in place.
+CV: Nl S1+S2, no murmurs appreciated. JVP flat. PMI not
+laterally displaced, no precordial heave.
+Pulm: Decreased breath sounds at right base.
+Abd: S/NT/ND +bs
+Ext: 1+ edema bilaterally. 1+ dp bilaterally
+Neuro: Unresponsive. No corneal reflex. No responsve to painful
+stimuli or deep suctioning. Down going toes to babinski
+bilaterally.
+
+
+Pertinent Results:
+On admission:
+[**2163-8-11**] 06:02PM BLOOD WBC-6.5# RBC-3.40* Hgb-11.2* Hct-32.4*
+MCV-95 MCH-32.8* MCHC-34.5 RDW-13.9 Plt Ct-140*
+[**2163-8-11**] 06:02PM BLOOD Neuts-87.0* Lymphs-6.9* Monos-5.8 Eos-0.2
+Baso-0.2
+[**2163-8-11**] 06:02PM BLOOD PT-14.6* PTT-120.9* INR(PT)-1.3*
+[**2163-8-11**] 06:02PM BLOOD Glucose-231* UreaN-12 Creat-0.8 Na-140
+K-4.0 Cl-110* HCO3-20* AnGap-14
+[**2163-8-11**] 06:02PM BLOOD ALT-82* AST-89* LD(LDH)-205 CK(CPK)-95
+AlkPhos-26* TotBili-0.6
+[**2163-8-11**] 06:02PM BLOOD Albumin-3.5 Calcium-7.1* Phos-2.5*
+Mg-1.0*
+[**2163-8-11**] 11:25PM BLOOD Type-ART pO2-115* pCO2-29* pH-7.38
+calTCO2-18* Base XS--6
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 76 year old gentleman with a PMH significant
+for DM 2, HTN, and hyperlipidemia transferred from an OSH after
+cardiac arrest. He was transferred to [**Hospital1 827**] on [**2163-8-11**]. On [**2163-8-12**],
+after extensive discussion with the patient's family and an
+explanation of his grim prognosis, Mr. [**Known lastname **] was extubated
+and [**Known lastname **] shortly thereafter. His brief hospital course was
+notable for:
+.
+# Cardiac arrest: Patient with significant down time of at least
+21 minutes after initial 911 call to schockable rhythmn and ROSC
+with bystander CPR performed.  Per report, at the OSH patient
+was initially warmed at the OSH, and 24 hours post-arrest he has
+a GCS <5, which has a poor prognostic value.  Discussed with
+cardiac arrest team, no indication for cooling. The etiology of
+Mr. [**Known lastname **] cardiac arrest is not completely clear, and the
+differential includeda acute myocardial ischemic event,
+arrythmia, and pulmonary embolus. An ischemic event seems less
+likely given trends in the patients cardiac biomarkers. During
+his stay at [**Hospital3 **], Mr. [**Known lastname **] was unresponsive, did not
+follow commands, and did not demonstrate any cortical cerebral
+function.  A neurology evaluation with EEG also demonstrated no
+cortical function. After discussion with the family about the
+patient's grim prognosis without hope for significant recovery
+from a persistent vegetative state, the family agreed to have
+the patient extubated. Mr. [**Known lastname **] [**Last Name (Titles) **] shortly thereafter
+on [**2163-8-12**].
+
+.
+
+Medications on Admission:
+Trandolapril 1 mg daily
+Atenolol 25 mg daily
+Glimepiride 4 mg daily
+Simvastatin 10 mg daily
+Metformin 1000 mg po bid
+
+Discharge Disposition:
+[**Year (4 digits) **]
+
+Discharge Diagnosis:
+cardiac arrest
+
+Discharge Condition:
+deceased
+
+Discharge Instructions:
+none
+
+Followup Instructions:
+none"
+case_005,"subject_id=32568 | hadm_id=172973
+
+Admission Date:  [**2191-3-18**]              Discharge Date:   [**2191-3-19**]
+
+
+Service: MEDICINE
+
+Allergies:
+Heparin Sodium
+
+Attending:[**First Name3 (LF) 458**]
+Chief Complaint:
+s/p ppm placement for syncope
+
+Major Surgical or Invasive Procedure:
+PPM placement
+
+
+Past Medical History:
+ Endovascular repair of abdominal aortic aneurysm with modular
+stent graft, [**8-9**]
+ R eye cataract surgery
+ CAD s/p MI and CABGx4 (per grandson there was an episode of AF
+perioperative requiring transient coumadin/dig in [**2179**])
+[**Doctor First Name **]-weisee tear in [**1-9**], not requiring transfusion
+ Vertebral compression fractures, osteoporosis.
+ L CEA [**2179**]
+ S/p umbilical hernia repair
+ Prostate Ca, not actively treated
+ HTN
+ PMR on chronic steroids (saw rheumatologist less than 1 week
+ago, on very slow prednisone taper)
+ Left hip surgery [**2190-1-1**]
+ GERD
+ Hyperlipidemia
+ Hypothyroidism
+ Bilateral knee surgeries.
+
+
+Social History:
+The patient lives with his daughter. Is widowed. Was in the
+military for 5-6 years and then a firefighter. Quit tobacco 11
+years ago but smoked <1 ppd x 50 yrs prior to this. No alcohol
+use, past or current.
+
+
+Family History:
+Both parents died of cerebral hemorrhages. A grandson has DM.
+Unsure of anyone elses' health.
+
+
+Pertinent Results:
+[**2191-3-18**] 01:27PM   GLUCOSE-73 UREA N-34* CREAT-1.9* SODIUM-138
+POTASSIUM-4.9 CHLORIDE-99 TOTAL CO2-27 ANION GAP-17
+[**2191-3-18**] 01:27PM   WBC-8.6 RBC-4.86# HGB-13.4*# HCT-41.0# MCV-85
+MCH-27.6 MCHC-32.6 RDW-15.6*
+[**2191-3-18**] 01:27PM   PLT COUNT-319
+[**2191-3-18**] 01:27PM   PT-12.7 PTT-30.9 INR(PT)-1.1
+
+Brief Hospital Course:
+# RHYTHM: [**Company 1543**] PM for tachy-brady was placed. Cephalic
+access. F/U CXR in AM showed a left transvenous pacemaker leads
+terminate in standard position in the right atrium and right
+ventricle. No PTX. Antiobiotics were continued for 3 days for
+prophylaxis. Digoxin and pindolol were stopped. Patient was
+started on amiodarone 200 tid for 1 month and then 200 mg daily
+(TSH pnd on dc). Toprol XL was also initiated. Coumadin was
+restarted. INRs will be checked in 2 days by patient's primary
+care doctor who he has seen in the past for INR checks. He will
+follow up with Dr. [**Last Name (STitle) 23246**] in 1 week for PPM check.
+
+# AMS: Most likely etiology sedation during procedure. On
+admission to CCU patient was A+OX3 consistent whit this. LFTs
+and lytes were wnl; cre improved after one day in ccu. Sedating
+medications were held overnight. Patient was A+OX3 prior to
+discharge.
+
+# CORONARIES: Known CAD with prior MI h/o CABG. Continued home
+ASA, statin, ACE. Started toprol XL as below.
+
+# PUMP: Normal EF in [**1-9**]. Remained euvolemic.
+
+# Hypothyroidism: Please follow up the TSH/TFT while on amio.
+Continued levoxyl.
+
+Medications on Admission:
+-fosamax 70 qFriday
+-digoxin 125 qd
+-lovenox 60 [**Hospital1 **] (coumadin was held for pacer placement)
+-flonase
+-levoxyl 25 qd
+-lisinopril 5 qd
+-prilosec 20 qd
+-oxycodone 5 prn
+-pindolol 10 [**Hospital1 **]
+-prednisone 5 [**Hospital1 **]
+zocor 20 qd
+coumadin 5 qd -held
+-aspirin 81 qd
+TUMS 750 [**Hospital1 **]
+colace
+vit D 1000 units qd
+iron 27 mg [**Hospital1 **]
+
+
+Discharge Medications:
+1. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours) as needed for PM impant for 3 days.
+Disp:*6 Capsule(s)* Refills:*0*
+2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) for 1 months.
+Disp:*60 Tablet(s)* Refills:*0*
+3. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*2*
+4. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4
+PM.
+Disp:*30 Tablet(s)* Refills:*2*
+5. Alendronate 70 mg Tablet Sig: One (1) Tablet PO QFRI (every
+Friday).
+6. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1)
+Spray Nasal DAILY (Daily).
+7. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+8. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO Q 12H (Every 12 Hours).
+10. Prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+11. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+12. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+13. Calcium Carbonate 500 mg Tablet, Chewable Sig: Two (2)
+Tablet, Chewable PO HS (at bedtime) as needed.
+14. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO HS
+(at bedtime).
+15. Iron 27 mg (Iron) Tablet Sig: Two (2) Tablet PO once a day.
+
+16. Vitamin D 1,000 unit Tablet Sig: One (1) Tablet PO once a
+day.
+17. Oxycodone 5 mg Capsule Sig: One (1) Capsule PO four times a
+day as needed for pain.
+18. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1)
+Tablet PO DAILY (Daily).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+tachy-brady syndrome
+altered mental status from sedating medications
+
+Secondary:
+CAD
+HTN
+
+
+Discharge Condition:
+Patient was afebrile and hemodynamically stable prior to
+discharge.
+
+
+Discharge Instructions:
+You were admitted to the hospital with fainting. You had a
+pacemaker placed. You were a bit confused after the pacemaker
+was placed probably from the medications you got during the
+procedure. You stopped being confused very quickly.
+
+Medication Changes:
+STOP: Pindolol
+STOP: Digoxin
+STOP: Lovenox
+START: Amiodarone 200mg twice daily for one month then 200mg
+once daily
+START: Toprol XL 50mg daily
+
+Please call your doctor or come to the emergency room if you
+have fevers, fainting or near fainting, palpitations, chest
+pain, shortness of breath, abdominal pain, nausea, diarrhea,
+blood in your stools or black tarry stools, leg swelling, or any
+other concerning symptoms.
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) **] ([**Telephone/Fax (1) 17753**]) on [**2191-3-21**] to
+have your INR (coumadin level) drawn and your coumadin dosed
+appropriately.
+
+Please follow up with Dr. [**Last Name (STitle) 23246**] ([**Telephone/Fax (1) 62**]) in 1 week to
+have your pacemaker checked.
+
+
+
+Completed by:[**2191-3-19**]"
+case_006,"subject_id=62551 | hadm_id=183851
+
+Admission Date:  [**2151-3-22**]              Discharge Date:   [**2151-4-10**]
+
+Date of Birth:  [**2069-10-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 3984**]
+Chief Complaint:
+scheduled bronchoscopy
+
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+Intubation x2
+Arterial line
+Central venous line (IJ)
+
+History of Present Illness:
+Ms [**Known lastname 107532**] is an 81 year old woman with past medical history
+significant for chronic low back pain, coronary artery disease,
+hypertension, hyperlipidemia, and question of vasculitis,
+transferred to medicine from PACU after undergoing bronchoscopy
+for workup or a right lower lobe mass and developing a new
+oxygen requirement.
+.
+Briefly, Ms [**Known lastname 107532**] began having a chronic cough and some
+hemoptysis this past [**Month (only) **]. Workup for this included a CT
+scan, which revealed a large (6cm) cavitary lesion. She
+underwent extensive evaluation for possible metastatic disease
+including head MRI, PetCT and bronchoscopy, however although Pet
+revealed markedly FDG avid
+right lower lobe mass with a satellite nodule, transbronchial
+biopsy and washings were non diagnostic. Patient was electively
+admitted today to have repeat rigid bronchoscopy with FNA of
+lymph nodes under ultrasound guidance. Patient was extubated
+without difficulty however she remained hypoxic and is still
+requiring supplemental oxygen.
+.
+Patient denies any pain, but reports being slightly disoriented
+still. Has a heavy cough and reports some difficulty breathing,
+no nausea.
+.
+In the PACU, 137/68 96 93% on 50% face tent. Patient was given
+Lasix 20mg IV and was admitted to MICU team for further
+management.
+
+
+Past Medical History:
+CAD
+Diastolic Dysfunction
+Low anterior resection [**2146**] for complicated diverticular disease
+
+HTN
+Hyperlipidemia
+Vasculitis?
+Lower extremity neuropathy
+
+
+Social History:
+Ex smoker, 20 pack year history. Denies alcohol or drug use.
+Lives with room mate, is originally from [**Country 4754**].
+
+Family History:
+No family history of lung cancer
+Sister with breast cancer
+
+
+Physical Exam:
+On admission
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema
+
+
+Pertinent Results:
+[**2151-3-22**] 11:36PM BLOOD WBC-19.8* RBC-3.55* Hgb-8.8* Hct-29.9*
+MCV-84 MCH-24.7* MCHC-29.3* RDW-15.0 Plt Ct-616*
+[**2151-3-22**] 11:36PM BLOOD PT-14.0* PTT-29.3 INR(PT)-1.2*
+[**2151-3-22**] 11:36PM BLOOD Glucose-100 UreaN-15 Creat-1.0 Na-139
+K-3.2* Cl-102 HCO3-26 AnGap-14
+[**2151-3-22**] 11:36PM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2151-3-22**] 11:36PM BLOOD Calcium-10.4* Phos-3.1 Mg-1.6
+[**2151-3-25**] 02:13AM BLOOD calTIBC-215* Ferritn-1419* TRF-165*
+
+Brief Hospital Course:
+# Respiratory Distress: Initial respiratory distress was thought
+to be likely a result of post-bronchoscopy fluid overload. No
+pneumothorax seen. Patient initially did well on oxygen by
+facemask with diuresis, but on [**3-22**] patient had increased
+respiratory distress associated with ventricular tachycardia,
+and was intubated for hypoxic respiratory failure. Patient
+initially received empirical levaquin for presumed CAP, but
+antimicrobials were empirically broadened to Vanco/Cefepime on
+[**3-22**]. BAL during bronchoscopy on [**3-22**] was unremarkable. She was
+extubated the following day, but had respiratory distress again
+on [**3-25**] requiring reintubation. She was transferred to the [**Hospital Unit Name 153**]
+where her respiratory status improved with diuresis and
+antibitiocs transiently but ultimately she could not be weaned
+from the Vent. Several family meetings were held during the
+course of her hospitalization, and with lack of progress and
+continued dependence on mechanical ventialtion, consistent with
+the patients previsously expressed wishes that long term
+mechanical ventilation was not acceptable quality of life, she
+was terminally extubated.
+.
+# Ventricular Tachycardia. Possibly triggered by
+hypoxia/respiratory distress. 4 episodes over ~30 minutes which
+responded to amiodarone (150 x 2 and then 0.5 mg/min drip) and
+respiratory support. Was intubated and started on amiodarone
+drip with no more episodes. She did not require DC
+cardioversion. Completed amiodarone drip but continued to have
+NSVT, which resolved following repositioning of a central venous
+catheter on [**3-26**].
+
+# RLL mass: Squamous cell on bronch biopsy. Patient was
+transferred to the [**Hospital Ward Name **] on [**3-25**] for radiation therapy.
+RadOnc deferred therapy.
+.
+# NSTEMI/CAD: Ruled in by troponin (peaked at 0.25) on [**3-22**] with
+flat CK. Started on heparin drip until troponin plateaud. TTE
+showed anterior wall motion abnormalities and depressed EF with
+MR 2+. Cardiology deferred cath given her overall status.
+
+# CHF: has known diastolic CHF. Presented to [**Hospital Unit Name 153**] with florid
+pulmonary edema and effusions. This was related to new, acute
+systolic dysfunction from anterior NSTEMI compounded by 2+MR
+.
+# Hypercalcemia: Albumin only 2.2 so corrected calcium actually
+>12. With appropriately low PTH this is likely from malignancy
+related tumor factors. Patient received lasix and pamidronate. .
+
+
+
+Medications on Admission:
+Lasix 20 mg daily
+Lisinopril 20/HCTZ 12.5 mg a day
+Inderal 20 mg q.i.d. (for tremor)
+Gemfibrozil 600 mg b.i.d
+Simvastatin 20 mg a day
+Omeprazole 20 mg a day
+Caltrate 600 mg a day
+Iron 65 mg a day
+Aspirin 81 mg a day
+Protonix 40 mg a day
+Alprazolam 0.25 mg q.i.d. p.r.n.
+Lyrica 150 mg a day
+Darvocet p.r.n.
+SLNG as needed
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+expired
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2437**] MD [**MD Number(1) 2438**]
+
+Completed by:[**2152-8-8**]"
+case_007,"subject_id=50824 | hadm_id=140020
+
+Admission Date:  [**2190-2-23**]              Discharge Date:   [**2190-2-25**]
+
+Date of Birth:  [**2127-1-30**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Cephalexin / Cephalexin
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+dyspnea
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+63yo F with h/o smoking, pulmonary HTN diagnosed in [**2189**],
+transfered from [**Hospital1 18**] [**Location (un) 620**] for futher workup of pulmonary HTN
+including R heart catheterization. Pt states she was in her
+usual state of health when polycythemia was noted on her labs at
+annual physical exam in [**Month (only) 547**] or [**2189-5-24**], leading to a
+workup in which she was diagnosed with pulmonary HTN. She had
+noted some dyspnea on exertion prior to that time but was
+generally active and not bothered by her symptoms, which she
+associated with her past smoking history. PFTs showed moderate
+obstructive airway disease with severely reduced DLCO; CT showed
+apical bullous emphysema as well as basilar pulmonary fibrosis.
+In [**8-/2189**], she reports starting home O2 that she has required
+constantly since then. She reports starting Spiriva and
+Symbicort around that time. Her condition worsened subacutely in
+[**12/2189**], when she was found to have low blood pressure at an
+outpatient visit and admitted to the hospital for a week.
+She was readmitted about 3 weeks ago with 3-4 days of worsening
+dyspnea and some lethargy. On admission, she had a WBC of 15 on
+prednisone and was on 3L O2 with a sat of 76%. Her sat improved
+on CPAP, although it was difficult for her to tolerate. She was
+treated for a possible PNA with antibiotics
+levofloxacin/vancomycin (completed 14 day course) and also
+received solumedrol. Her sats have usually been 91-93% on a 50%
+venti mask, although she desats with anxiety. She was treated
+with an insulin sliding scale for new hyperglycemia in the
+setting of steroids. She received diltiazem during the admission
+but it was held [**2-23**] for SBP 80s which responded to a 500 cc
+bolus. Pt had an episode of urinary retention, with placement of
+a foley 3 days ago.
+Pt reports sore throat, nasal congestion, and cough productive
+of sputum that was initially dark brown (weeks ago) and is now
+yellowish. She denies pleuritic chest pain, fevers/chills, and
+palpitations although she notes occasional panic attacks.
++constipation.
+
+Past Medical History:
+hyperglycemia--first noted on current admission in the setting
+of steroids, pt has been on insulin sliding scale as inpt
+Pulmonary HTN as above, R sided heart failure.
+
+Social History:
+ Lives with daughter in [**Name (NI) 1411**], used to work in home decor until
+economy crashed. Was able to walk comfortably, climb stairs
+prior to diagnosis. Smoked [**1-26**] pack per day for ""many"" years,
+quit smoking 2.5 years ago, denies history of EtOH and illicit
+drugs.
+
+Family History:
+Both parents died of MI, brother has a defibrilator. One uncle
+had pulmonary disease with a history of asbestos exposure.
+
+Physical Exam:
+ADMISSION EXAM
+Vitals: T 95.7 (was 99.6 at OSH today) HR 115 BP 92/65 (84-97
+systolic) RR 30 sat 92% on shovel mask.
+Gen: Lying in bed, alert, interactive, increased work of
+breathing
+HEENT: +oral thrush
+Neck: JVP at angle of jaw with bed at 30 degrees
+Lungs: Crackles at bases b/l
+Cardiac: RV heave, rapid rate, regular, harsh systolic murmur
+loudest at LUSB
+Abd: +BS, soft, nondistended, mildly tender to deep palpation in
+LUQ and RUQ, no hepatosplenomegaly
+Ext: 2+ pedal pulses, 1+ pitting edema in LE
+Skin: Superficial skin breakdown on buttocks bilaterally
+Neuro: PERRL, alert, oriented
+
+DISCHARGE EXAM
+[patient expired]
+
+Pertinent Results:
+[**2190-2-24**] 02:20AM BLOOD WBC-17.5* RBC-5.04 Hgb-15.8 Hct-46.8
+MCV-93 MCH-31.3 MCHC-33.7 RDW-16.1* Plt Ct-133*
+[**2190-2-24**] 02:20AM BLOOD Neuts-81* Bands-2 Lymphs-6* Monos-7 Eos-0
+Baso-0 Atyps-0 Metas-2* Myelos-2*
+[**2190-2-24**] 02:20AM BLOOD PT-13.2* PTT-23.3* INR(PT)-1.2*
+[**2190-2-24**] 02:20AM BLOOD Glucose-102* UreaN-33* Creat-0.7 Na-137
+K-4.4 Cl-108 HCO3-19* AnGap-14
+[**2190-2-24**] 02:20AM BLOOD ALT-117* AST-67* AlkPhos-56 TotBili-1.6*
+[**2190-2-24**] 12:27PM BLOOD Calcium-9.3 Phos-5.2* Mg-2.7*
+[**2190-2-24**] 02:20AM BLOOD HBsAb-NEGATIVE HBcAb-NEGATIVE HAV
+Ab-NEGATIVE
+[**2190-2-24**] 02:20AM BLOOD [**Doctor First Name **]-NEGATIVE
+[**2190-2-24**] 02:20AM BLOOD TSH-1.8
+[**2190-2-24**] 02:20AM BLOOD HIV Ab-NEGATIVE
+[**2190-2-24**] 02:20AM BLOOD HCV Ab-NEGATIVE
+
+CXR [**2190-2-24**]
+Small contiguous thick septated radiolucency seen at the bases
+consistent with pulmonary fibrosis. Larger pattern of
+radiolucency is seen in
+the upper lung fields consistent with emphysema. Pulmonary
+vasculature and
+interstitium is consistent with heart failure. Prominence of
+pulmonary artery
+is consistent with pulmonary hypertension.
+
+Brief Hospital Course:
+Ms. [**Known lastname **] is a 63y/o lady with pulmonary hypertension of
+unknown etiology, with subacute worsening of her dyspnea, who
+was transfered after 3 week admission to [**Hospital1 18**] [**Location (un) 620**] for
+further workup of pulmonary HTN.  She had increasing O2
+requirements and complained of worsening dyspnea throughout her
+stay.  She was uncomfortable lying flat, and did not undergo
+right-heart catheterization.  She eventually required 100% NRB,
+and then non-invasive ventilation with PEEP and 100% FiO2 in
+order to maintain oxygenation.  Her labs and ABGs suggested
+respiratory fatigue and systemic ischemia (rising lactate;
+antibiotics were started in case this represented sepsis).  A
+family meeting was held with the patient and her family; she had
+a significant risk of mortality from CPR and intubation, and
+might possibly never be able to be weaned from a ventilator in
+the setting of her bad emphysema, pulmonary fibrosis, and
+pulmonary hypertension.  Patient and family decided to decline
+intubation and her management was shifted towards
+comfort-focused care.  She expired with family at the bedside.
+
+Medications on Admission:
+Meds on Transfer:
+Spiriva 1 cap daily, DuoNeb PRN, prednisone 50 mg daily
+(starting [**2-23**]), ASA 81mg, omeprazole 20 mg PO daily, lorazepam
+0.5 mg [**Hospital1 **], lantus 18 units at night, diltiazem 60 mg PO q6h
+
+Discharge Medications:
+[patient expired]
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+[patient expired]
+
+Discharge Condition:
+[patient expired]
+
+Discharge Instructions:
+[patient expired]
+
+Followup Instructions:
+[patient expired]"
+case_008,"subject_id=75223 | hadm_id=174855
+
+Admission Date:  [**2113-9-26**]              Discharge Date:   [**2113-9-28**]
+
+Date of Birth:  [**2050-4-17**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Ciprofloxacin
+
+Attending:[**First Name3 (LF) 2387**]
+Chief Complaint:
+s/p carotid stenting
+
+Major Surgical or Invasive Procedure:
+carotid stenting of right carotid artery
+
+
+History of Present Illness:
+63 yo male with history of HTN, HL, and claudication who is s/p
+carotid stenting for 90% stenosis on right admitted for
+monitoring.
+.
+Approximately 3 months ago, he had a stress echo (nl, EF >50%,
+negative for ischemia), and at that time, a carotid bruit was
+heard.  Carotid US and CT neck with contrast were done (results
+not available on admission).  Per patient, he had 90% stenosis
+on right and 50-60% stenosis on left.  He has been asymptomic
+and scheduled an elective surgery today.
+.
+On review of systems, he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis. he
+denies recent fevers, chills or rigors. All of the other review
+of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension
+2. CARDIAC HISTORY:
+cardiac catheterization - [**2111-3-26**]: 30% mid plaque lesion in
+the LAD at the diagnoals and only minimal disease in the other
+vessels
+3. OTHER PAST MEDICAL HISTORY:
+Hyperlipidemia
+GERD
+claudication s/p left SFA stent
+distant h/o gastric ulcer
+hydrocele s/p indigo laser procedure
+tobacco abuse
+adenocarcinoma of the rectosigmoid [**Month/Day/Year 499**] s/p surgery
+BPH
+
+Social History:
+Currently smokes tobacco since age 15 at least 1ppd
+(45pack-year), now smokes approximately 0.5-1 ppd. He drinks 1
+alcoholic drinks per week. Married and works as engineer.
+
+Family History:
+His family history is significant for a mother with MI in her
+50s and pacemaker. Mother had [**Name2 (NI) 499**] cancer and DM too.  Not in
+touch with father
+
+Physical Exam:
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+
+HEENT: Sclera anicteric. EOMI. no oral lesions.
+
+NECK: Supple, bruit on left
+
+CARDIAC: RRR
+
+LUNGS: CTAB
+
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+
+EXTREMITIES: no pedal edema, distal pulses intact, right groin
+nontender, without brusing or bruits
+
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+
+Neuro: CN II-XII intact, nl strength and sensation in upper and
+lower extremities bilaterally, nl rapid alternating movements of
+hands
+
+
+Pertinent Results:
+[**2113-9-26**] 07:55AM BLOOD WBC-7.1 RBC-4.36* Hgb-12.5* Hct-36.4*
+MCV-84 MCH-28.8 MCHC-34.5 RDW-15.0 Plt Ct-269
+[**2113-9-27**] 05:24AM BLOOD WBC-9.1 RBC-4.05* Hgb-11.4* Hct-34.3*
+MCV-85 MCH-28.2 MCHC-33.3 RDW-15.0 Plt Ct-300
+[**2113-9-26**] 07:55AM BLOOD Glucose-101* UreaN-10 Creat-0.9 Na-140
+K-4.5 Cl-104 HCO3-27 AnGap-14
+[**2113-9-27**] 05:24AM BLOOD Glucose-104* UreaN-17 Creat-1.0 Na-140
+K-4.3 Cl-105 HCO3-26 AnGap-13
+[**2113-9-27**] 05:24AM BLOOD Calcium-8.7 Phos-3.7 Mg-2.1
+
+Brief Hospital Course:
+63 yo male with history of HTN, HL, and claudication who
+presents after carotid stenting for monitoring.
+
+# Carotid stenting - The patient tolerated the procedure well.
+Post procedure, the patient was hypotensive and bradycardic to
+the 40s.  He was started on dopamine and transferred to the CCU
+for monitoring.  The dopamine drip was able to be weaned after
+one night and the patient's blood pressure rose to 120s without
+any medication.  He ambulated around the unit without difficulty
+and tolerated PO intake well.  He was started on a full dose
+aspirin.  Plavix and statin were continued.  Lisinopril and
+amlodipine were held due to hypotension.
+
+# Smoking cessation - The patient said he was trying to cut back
+his smoking habit.  He was counseled that smoking cessation
+would be the best thing to do to lower his stroke risk.
+
+Medications on Admission:
+AMLODIPINE [NORVASC] - 5 mg Tablet - daily
+DICYCLOMINE -10 mg Capsule - 1 Capsule(s) by mouth three times a
+day
+DIPHENOXYLATE-ATROPINE -  2.5 mg-0.025 mg Tablet as needed
+DUTASTERIDE [AVODART] -  0.5 mg - 1 Capsule(s) by mouth qpm
+LISINOPRIL - 20 mg Tablet - 1 Tablet(s) by mouth twice a day
+PANTOPRAZOLE - 40 mg Tablet, - 1 Tablet(s) by mouth every
+afternoon
+PROCHLORPERAZINE MALEATE -10 mg-every 6 hours as needed for
+nausea
+ROSUVASTATIN [CRESTOR] -10 mg by mouth afternoon
+ASPIRIN -   81 mg Tablet - qam
+plavix 75 daily - started recently
+
+
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY (Daily)
+as needed for s/p R carotid artery stent.
+2. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+s/p R carotid artery stent.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Dicyclomine 10 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+4. Diphenoxylate-Atropine 2.5-0.025 mg Tablet Sig: One (1)
+Tablet PO Q8H (every 8 hours) as needed for diarrhea.
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+6. Prochlorperazine Maleate 10 mg Tablet Sig: One (1) Tablet PO
+Q6H (every 6 hours) as needed for nausea.
+7. Rosuvastatin 5 mg Tablet Sig: Two (2) Tablet PO DAILY
+(Daily).
+8. Avodart 0.5 mg Capsule Sig: One (1) Capsule PO qpm ().
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+s/p carotid stenting
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. [**Known lastname 59744**],
+
+ It was a pleasure taking care of you during your
+hospitalization.
+You were admitted for carotid stenting of the right carotid
+artery.  After the procedure, your heart rate and blood pressure
+were low. You were treated with IV dopamine, a medication that
+raises blood pressure and heart rate.  We were able to wean the
+dopamine and your blood pressure and heart rate stayed stable.
+
+Please make the following changes to your medications:
+INCREASE aspirin to 325 mg daily
+
+Please follow-up with your scheduled appointments.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) **]: [**Last Name (LF) 766**], [**10-2**] at 3:45.  You
+can reach the office at ([**Telephone/Fax (1) 32215**].
+
+Provider: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD Phone:[**Telephone/Fax (1) 62**]
+Date/Time:[**2113-11-23**] 3:40. They will try go get you sooner and
+call you. You are in the urgent waiting list."
+case_009,"subject_id=53372 | hadm_id=156773
+
+Admission Date:  [**2171-5-6**]              Discharge Date:   [**2171-5-8**]
+
+Date of Birth:  [**2087-8-4**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Ibuprofen
+
+Attending:[**First Name3 (LF) 6701**]
+Chief Complaint:
+hypoxemia/hypotension
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+83 yo with h/o afib, gib, ischemic colitis, CHF just discharged
+from MICU to [**Hospital 100**] Rehab MACU on [**5-2**] readmitted with hypoxemiz
+and hypotension. This is the third admission this month for Ms.
+[**Known lastname **]. Please review past discharge summary for details, but
+briefly she had GI bleed from AVMs, dabigatran stopped,
+readmitted with ischemic colitis, managed conservatively. She
+was relatively hypotensive during her last admission. She was
+always very clear about her wishes to avoid invasive measures
+including central lines. At rehab, she was noted to be
+hypoxemic. CXR with e/o CHF. Started on lasix gtt. Difficulty
+with hypotension. Also had right calf pain and dvt ruled out by
+ultrasound. She was admitted here for work-up. In emergency
+department, was started on dopamine for hypotension. On arrival,
+discussed with patient and niece at bedside. She stated she
+wanted to be made comfortable. She stated that she did not want
+medicine to raise her blood pressure and was made CMO.
+
+Patient was transferred to [**Hospital Ward Name 121**] 7 from the MICU accompanied by
+her niece, and palliative care physicians (Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+from [**Hospital1 778**], Dr. [**First Name8 (NamePattern2) 11894**] [**Last Name (NamePattern1) 406**]) were consulted.  Per palliative
+care recommendations, was placed given intravenous and
+sublingual morphine, 5% lidocaine patch, acetaminophen,
+scopolamine patch and SL Levsin for comfort. Vital signs were
+held for comfort.  She was monitored regularly for pain and
+shortness of breath, which were treated with the above
+medications.  She was declared deceased at 13:47 on [**2171-5-8**].
+Primary cause of death was CHF secondary to sepsis, with
+incident causes of GIB, mesenteric ischemia, ischemic colitis,
+CAD, atrial fibrillation, thyroid cancer.  Primary care
+physician (Dr. [**Last Name (STitle) 11895**] was notified of admission.
+
+
+Past Medical History:
+* Coronary artery disease with MIs (?X3 in [**2119**])
+* Hypertension
+* Atrial fibrillation: on digoxin in the past, now on dabigatran
+
+started ~[**2-/2171**]
+* Hyperlipidemia
+* Osteoarthritis
+* Cholecystectomy + ERCP in [**2163**]
+* Partial hysterectomy
+* Thyroid cancer s/p thyroidectomy and parathyroidectomy
+
+
+Social History:
+Worked at [**Location (un) 8599**]Hospital as nursing aide in the Alcoholics
+Unit for years. Retired, lives in retirement community. [**12-9**]
+glasses of wine/month (social), denies illicits. Remote history
+of tobacco (quit over 40 years ago). Has refused to ever have
+colonoscopy.
+
+
+Family History:
+Father had an MI in his 50s and died of renal cancer.  Mother
+had an MI in her 40s.  No family history of sudden cardiac
+death. Daughter died at 54 years old of liver cancer, brother
+died at 77 years old (4 years ago) of gastric cancer. No other
+family history of malignancies, IBD, celiac disease, blood
+dyscrasias.
+
+
+Physical Exam:
+VS: Not recorded
+GENERAL: Obese elderly woman in no acute distress, drowsy but
+responsive, unable to state why in hospital, says she's at [**Hospital1 2025**],
+cannot recall date.
+HEENT: NC/AT, sclerae anicteric, MMM, OP clear.
+NECK: Supple, no JVD.
+HEART: RRR, no MRG, nl S1-S2.
+LUNGS: Diffuse rhonchi, no r/wh, good air movement, resp
+unlabored.
+ABDOMEN: Soft/NT/ND, obese, no masses or HSM, no
+rebound/guarding.
+EXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.
+SKIN: No rashes or lesions.
+LYMPH: No cervical LAD.
+
+
+Pertinent Results:
+ADMISSION LABS:
+.
+[**2171-5-6**] 03:45PM BLOOD WBC-9.0 RBC-4.29 Hgb-13.0 Hct-40.0 MCV-93
+MCH-30.2 MCHC-32.4 RDW-16.5* Plt Ct-281
+[**2171-5-6**] 03:45PM BLOOD Neuts-78* Bands-0 Lymphs-14* Monos-7
+Eos-1 Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2171-5-6**] 03:45PM BLOOD Glucose-132* UreaN-35* Creat-1.6* Na-142
+K-5.1 Cl-109* HCO3-26 AnGap-12
+[**2171-5-6**] 03:45PM BLOOD proBNP-7656*
+
+Brief Hospital Course:
+87 year-old woman with history of gastrointestinal bleed, atrial
+fibrillation, heart failure, ischemic colitis admitted from
+[**Hospital 100**] rehab with heart failure and hypotension. She has
+consistently expressed a desire to avoid invasive measures and
+states clearly that she would like to be made comfortable and is
+okay with the possibility of death. Her niece is at bedside and
+confirms that this is consistent with her wishes throughout. She
+was made comfort measures only and transferred to the floor with
+her niece (health care proxy), where palliative care was
+consulted.  She was made comfortable with intravenous and
+sublingual morphine, 5% lidocaine patch, scopolamine patch,
+acetaminophen, and sublingual levsin.  She was monitored
+regularly for pain and shortness of breath, with the above
+medications titrated to effect.  She was declared deceased at
+13:47 [**2171-5-8**].  Her primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **], was
+notified. Autopsy was declined as patient is donating her body
+to medical science.
+
+Medications on Admission:
+1. metoprolol tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2
+times a day).
+2. simvastatin 20 mg Tablet Sig: One (1) Tablet PO twice a day.
+
+3. metronidazole in NaCl (iso-os) 500 mg/100 mL Piggyback Sig:
+Five Hundred (500) mg Intravenous Q8H (every 8 hours) for 6
+days: Course to be complete [**2171-5-8**].
+4. ciprofloxacin 400 mg/40 mL Solution Sig: Four Hundred (400)
+mg Intravenous once a day for 6 days: Course to be complete
+[**2171-5-8**].
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO once a day.
+6. zolpidem 5 mg Tablet Sig: One (1) Tablet PO at bedtime as
+needed for insomnia.
+7. nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) tab
+Sublingual PRN as needed for chest pain: Please take 1 tab as
+needed for chest pain. 1 tab every 5 minutes, for up to 3 tabs
+in 15 min. .
+8. Tylenol-Codeine #3 300-30 mg Tablet Sig: One (1) Tablet PO
+every six (6) hours as needed for pain.
+
+Discharge Medications:
+None.
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary Diagnosis
+Congestive Heart Failure
+Sepsis
+Mesenteric Ischemia
+
+
+Discharge Condition:
+Deceased.
+
+Discharge Instructions:
+You were admitted with low oxygen levels and hypotension. You
+were made comfortable and passed away
+
+Followup Instructions:
+None.
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 6708**]
+
+Completed by:[**2171-5-9**]"
+case_010,"subject_id=78913 | hadm_id=145561
+
+Admission Date:  [**2153-8-29**]              Discharge Date:   [**2153-8-30**]
+
+Date of Birth:  [**2103-2-3**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 106**]
+Chief Complaint:
+elective ASD closure
+
+Major Surgical or Invasive Procedure:
+ASD closure
+
+
+History of Present Illness:
+50 year old Cantonese speaking male with no cardiac history,
+found to have an ASD that is now s/p closure with amplatz device
+on [**2153-8-29**], admitted to the CCU for post-procedure monitoring. He
+reported a history of dyspnea for the last year, as well as
+chest pain over the last 6 months. CT and echo demonstrated a
+large ASD with dilated RV and moderate dilation of RA and LA.
+PA pressures were reported to be normal.  On [**2153-8-17**] the patient
+underwent cardiac catheterization.  He was found to have normal
+coronary arteries, an RA of 6 mmHG, RV of 25/7 mmHG, PA pressure
+of 25/10 mmHG, mean PA pressure of 17 mmHG, wedge of 10 mmHG.
+O2 sat measurements were consistent with left to right shunting.
+He was admitted this AM for elective ASD closure with 3D TEE
+guidance.
+.
+His procedure this AM was relatively uncomplicated, however the
+closure device was difficult to seat in the septal defect, so
+there was some concern for possible migration or embolization
+with valsalva or other large changes in pressure.  He is
+therefore admitted to the CCU for post-procedure monitoring.
+.
+On arrival to the floor, patient is extubated but very sleepy
+and frequently apneic.  He denies pain or discomfort.
+
+Past Medical History:
+- ASD now s/p closure with Amplatzer device [**2153-8-29**]
+- Anxiety disorder
+- ? Prostate issue
+
+Social History:
+Divorced, no children.  Works full time as chef. No tobacco, no
+ETOH, no drugs
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory. Father passed
+away from liver cancer
+
+Physical Exam:
+VS: afebrile
+GENERAL: Appears well.  Tired and sleepy.
+HEENT: Sclera anicteric. PERRL, EOMI.
+NECK: Supple with no JVD.
+CARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3
+or S4.
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, no
+crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: No c/c/e. No femoral bruits. No bluish toes or
+signs of emboli.
+SKIN: No stasis dermatitis, ulcers, scars. Cath site appears
+clean, dry and intact.
+PULSES:
+Right: Carotid Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+Pertinent Results:
+Admission Labs:
+[**2153-8-30**] 05:04AM BLOOD Hct-39.2* Plt Ct-197
+[**2153-8-30**] 05:04AM BLOOD UreaN-16 Creat-0.8 Na-139 K-3.3 Cl-106
+[**2153-8-30**] 05:04AM BLOOD CK-MB-5
+
+TTE: [**2153-8-30**]:
+A septal occluder device is seen across the interatrial septum.
+The device abuts the aortic root on both sides, but does not
+directly imponge on it. Regional left ventricular wall motion is
+normal. Overall left ventricular systolic function is normal
+(LVEF>55%). The right ventricular cavity is mildly dilated with
+mild global free wall hypokinesis. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no
+aortic stenosis. Trace aortic regurgitation is seen. The mitral
+valve appears structurally normal with trivial mitral
+regurgitation. The estimated pulmonary artery systolic pressure
+is normal. There is no pericardial effusion.
+.
+IMPRESSION: Atrial septal occluder in place without significant
+residual flow by color Doppler. Trace aortic regurgitation.
+
+Brief Hospital Course:
+50 year old Cantonese speaking male with no cardiac history,
+found to have an ASD that is now s/p closure with amplatzer
+device on [**2153-8-29**] without any complcations.
+.
+# ASD Closure:  Patient had symtpoms of shortness of breath and
+chest discomfort for the past 6 months.  TTE and CT chest showed
+dilated RV and RA, a large secundum ASD (2.1 cm. Cath showed no
+angiographically CAD, his right sided pressures were normal with
+Qp/Qs of 2.4, therefore he was considered a good candicate for
+ASD closure.  Patient had closure of ASD with amplatzer device
+without any complcaitions however closure device was difficult
+to seat in the septal defect therefore he was admitted for
+monitoring in the CCU.  During his short CCU stay patient did
+not have any chest pain, shortness of breath or any other
+symptoms.  His cath site remained clean and dry without any
+bleeding. He did however have occasional central apnea during
+sleep right after being extubated which resolved after few
+hours. Follow up TTE showed the amplazter device in place
+without any shunting.  During this hospitalization he was
+started on aspirin x1 year and plavix x 3 months. He was also
+adviced to avoid any heavy lifting for the next 3 months to
+prevent displamcement of the closure device.
+.
+CODE: Full Code
+.
+Transition of Care:
+- No labs pending
+- Patient will continue to take Aspirin 325mg daily for one
+year.
+- Patient will continue to take plavix 75mg daily for 3 months.
+- Patient will avoid any heavy lifting or rigorous activity for
+at least three weeks.
+- Patient will follow up with PCP for [**Name9 (PRE) 35455**] care.
+
+Medications on Admission:
+None
+
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY
+RX *aspirin 325 mg 1 tablet(s) by mouth Daily Disp #*90 Tablet
+Refills:*4
+2. Clopidogrel 75 mg PO DAILY
+for the recommended duration
+RX *clopidogrel 75 mg 1 tablet(s) by mouth Daily Disp #*90
+Tablet Refills:*0
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+atrial septal defect
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Mr. [**Known lastname **],
+It was a pleasure taking care of you at [**Hospital1 18**]. You had a
+procedure to close the hole in the upper part of the heart.
+There were no complications from the procedure.  You were
+monitored in the cardiac intensive care unit overnight without
+any events. You were also started on two medications (aspirin
+and plavix) to help in preventing a clot in your new heart
+device.  You should continue to take aspirin for at least one
+year and you should continue to take plavix for 3 months.  For
+at least three months you should also avoid any heavy lifting
+(e.g >20 pounds)or rigourous activity.
+
+Discharge Instructions:
+- Continue aspirin 325 mg a day for 1 year.
+- Continue plavix 75 mg a day 3 months
+- Avoid heavy lifting for at least three months
+- Follow up with your primary care physician (see below) for
+further care.
+
+Followup Instructions:
+Name: [**Name6 (MD) 27839**] [**Name8 (MD) **], MD
+Specialty: Primary Care
+When: Thursday [**9-6**] at 11:30am
+Location: [**Hospital3 8233**]
+Address: [**State 8234**], [**Location (un) **],[**Numeric Identifier 8235**]
+Phone: [**Telephone/Fax (1) 8236**]
+
+
+
+Completed by:[**2153-8-30**]"
+case_011,"subject_id=60970 | hadm_id=163433
+
+Admission Date:  [**2132-2-7**]              Discharge Date:   [**2132-2-8**]
+
+Date of Birth:  [**2081-4-29**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 4765**]
+Chief Complaint:
+chest pain
+
+Major Surgical or Invasive Procedure:
+cardiac catheterization with placement of a bare metal stent
+
+History of Present Illness:
+50 yo male with h/o HCV presented to [**Location (un) **] with chest pain;
+has been having CP for 4 months with activity; but then 2 nights
+ago was moving wood and that produced some severe CP that lasted
+overnight into today; severe, crushing pain, non-radiating, +SOB
+and nausea. He went to [**Location (un) **] ER where he was found to have
+TropI 67 and EKG with q waves inferiorly and signficant R waves
+V1-V2. He was started on aspirin, heparin gtt, nitro gtt and
+plavix loaded before transferring here.
+
+Past Medical History:
+HCV 2/2 blood transfusion - s/p IFN and Ribavarin; neg viral
+load per report
+Sinusitis
+Depression
+s/p MVA in [**2103**]'s.
+MEDICATIONS (HOME):
+Mucinex dose unknown
+lexapro 20mg daily
+
+
+Social History:
+Smoked 1ppd x 1 yr; 2nd hand smoke from fiance, past EtOH, none
+since HCV diagnosis many years ago, lives w/fiance.
+
+Family History:
+No family history of early MI, otherwise non-contributory.
+
+Physical Exam:
+Vitals: BP 93/65, HR 130's.
+GENERAL: intubated, unresponsive
+HEENT: Pupils reactive bilaterally
+CARDIAC: RRR.
+LUNGS: Course BS anteriorly.
+ABDOMEN: +BS. Soft. Enlarged liver felt below LCM.
+RECTAL: Brown, solid, guaiac negative stool.
+EXTREMITIES: No c/c/e.
+
+
+Pertinent Results:
+Admission labs:
+[**2132-2-8**] 03:53AM   WBC-9.6 RBC-2.81* HGB-9.9* HCT-29.6* MCV-105*
+MCH-35.2* MCHC-33.4 RDW-15.3
+[**2132-2-8**] 03:53AM   ALT(SGPT)-35 AST(SGOT)-224* LD(LDH)-903*
+CK(CPK)-1067* ALK PHOS-71 TOT BILI-0.8
+[**2132-2-8**] 03:53AM   GLUCOSE-204* UREA N-12 CREAT-1.2 SODIUM-137
+POTASSIUM-4.4 CHLORIDE-108 TOTAL CO2-18* ANION GAP-15
+
+LFTs:
+[**2132-2-8**] 03:53AM BLOOD ALT-35 AST-224* LD(LDH)-903*
+CK(CPK)-1067* AlkPhos-71 TotBili-0.8
+
+Cardiac enzymes:
+[**2132-2-8**] 03:53AM BLOOD CK-MB-83* MB Indx-7.8* cTropnT-7.62*
+[**2132-2-8**] 07:48AM BLOOD CK-MB-109* MB Indx-8.5* cTropnT-5.69*
+[**2132-2-8**] 07:48AM BLOOD CK(CPK)-1287*
+[**2132-2-8**] 12:22PM BLOOD CK-MB-117* MB Indx-9.0* cTropnT-5.66*
+[**2132-2-8**] 12:22PM BLOOD CK(CPK)-1306*
+
+[**2132-2-8**] Transthoracic echo:
+There is mild symmetric left ventricular hypertrophy with normal
+cavity size. There is severe regional left ventricular systolic
+dysfunction with akinesis of the mid and distal segments of the
+inferior, inferolateral and lateral walls, as well as anterior
+wall, septum and apex (basal segments of the anterior septum,
+inferolateral wall and anterior wall are best preserved).
+Overall LVEF = 15-20%. There is no ventricular septal defect.
+Right ventricular chamber size is normal with moderate global
+free wall hypokinesis. No aortic regurgitation is seen. The
+mitral valve leaflets are mildly thickened. Mild (1+) mitral
+regurgitation is seen. There is at least mild pulmonary artery
+systolic hypertension (may be underestimated, given uncertainty
+about right atrial pressure). There is no pericardial effusion.
+
+IMPRESSION: Severe regional left ventricular systolic
+dysfunction, c/w multivessel CAD. Moderate right ventricular
+systolic dysfunction. At least mild pulmonary hypertension.
+
+Brief Hospital Course:
+50 yo male with h/o HCV presented with NSTEMI.
+
+NSTEMI:  Patient initially went to the cath lab where he was
+found to have LAD chronically occluded (mid) and LCX mid segment
+with thrombus (assumed culprit lesion).  Balloon angioplasty was
+attempted secondary to low platelets (didn't want to give stent
+requiring antiplatelet therapy) but with suboptimal results;
+ultimately a bare metal stent was placed.  RCA was patent but
+could not be fully engaged; origin may be anomalous.  He
+received heparin during procedure (started at OSH).  LVEDP was
+elevated, but this was attributed to large dye load while trying
+to visualize RCA.  Bivalirudin gtt was started after the
+procedure.  ASA and plavix were continued
+.
+After the catheterization, patient was admitted to [**Hospital Unit Name 196**]. About
+30-60 minutes after arrival on the floor, he complained of
+recurrent chest pain, nausea, back pain. SBP was initially in
+the 100s on arrival on the floor but then dropped to the 80s
+then 70s. Patient was given IVF bolus. He then vomitted, became
+unconscious, and went into PEA arrest. CPR was started. He was
+given epinephrine 1 mg. Pulses returned. Patient regained
+consciousness, again vomited coffee-ground emesis. He was
+intubated. Started on dopamine and wide-open IVF. Transferred to
+CCU. ECG showed new ST depression in precordial leads and ST
+elevations in II, III. R-sided ECG showed ST elevations in
+lateral leads.  He was taken back to the cath lab where stent
+was found to be patent.
+.
+In the ccu, the patient continued to be in tachycarda to the
+120s and 130s and hypotensive, with falling urine output despite
+pRBC and multiple fluid boluses.  There was concern for
+retroperitoneal hemorrhage post-catheterization, and CT abdomen
+without contrast was done which did not show evidence of such. A
+pulmonary artery catheter was placed for monitorring.  Shortly
+after placement, patient was bradycardic to the 40s, thought to
+be secondary to vagal stimulation from the catheter.  He
+received atropine with return of sinus tachycardia briefly,
+followed by junctional bradycardia.  His blood pressure then
+fell to the 40s.  CPR was initiated, and epinephrine given.  He
+was also treated for hyperkalemia with insulin, glucose, and
+calcium.  Echo showed no evidence of effusion or tamponade.
+Bradycardia and hypotension worsened and the patient became
+asystolic.  The patient expired.
+.
+# PUMP: No known h/o diastolic/systolic function, had elevated
+LVEDP in Cath lab. Echo showed hypokinesis and LVEF 15-20% with
+severe regional left ventricular systolic dysfunction and
+akinesis of the mid and distal segments of the inferior,
+inferolateral and lateral walls, as well as anterior wall,
+septum and apex.
+.
+# [**Name (NI) 1867**] Pt with plts 57. His hepatologist was
+contact[**Name (NI) **] who stated that thrombocytopenia was secondary to
+recent interferon therapy and was at recent baseline.
+.
+# HCV and GI bleed: Patient had a history of HCV. LFTs mildly
+elevated, T.bili WNL; pt has completed IFN/ribavarin and per
+report recent viral load undetectable. Per hepatologist, patient
+did not have a history of known varices.  However, given his
+coffee ground emesis and subsequent dark brown fluid from
+gastric suction, GI was consulted.
+
+
+Medications on Admission:
+Mucinex dose unknown
+lexapro 20mg daily
+
+
+Discharge Medications:
+expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+expired
+
+Discharge Condition:
+expired
+
+Discharge Instructions:
+expired
+
+Followup Instructions:
+expired
+
+
+Completed by:[**2132-2-8**]"
+case_012,"subject_id=28190 | hadm_id=184071
+
+Admission Date:  [**2155-4-15**]              Discharge Date:   [**2155-4-24**]
+
+Date of Birth:  [**2072-12-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 1674**]
+Chief Complaint:
+jaundice
+
+Major Surgical or Invasive Procedure:
+[**First Name3 (LF) **]
+Intubation
+
+History of Present Illness:
+82 yo M w/ afib, HTN p/w jaundice and itching. symptoms started
+3 wks back. he noticed increased itching all over. yesterday he
+had a f/u appt w/ his cards dr [**Last Name (STitle) **] where they noticed that he
+was jaundiced. He was sent to the ED where abd US showed 3 cm
+pancreatic mass and elevated LFTs (tbili 9.6 with alk phos
+>1900). pt also c/o swelling in legs for past 2 wks. he denies
+pain in abd/N/V/constipation/abd distention. he has been
+suffering from diarrhea for past 6 wks and thought it to be d/t
+lactyose intolerance. he says it improved after stopping the
+milk products. he he lost 52 lbs and then gained 8 lbs over past
+1 yr. the wt loss was intentional. his appetite is fine. no
+insomnia. mood fine. denies F/C/C, denies CP, SOB, dizziness,
+palpitations. He was admitted to [**Hospital1 **] on [**2155-4-15**]. He had a CT
+abd that showed a marked bilary dilation without definitive mass
+in the pancreas seen. He was referred for [**Date Range **] on [**2155-4-17**] but
+the procedure was not tolerated well. He was brought back to
+[**Date Range **] to be done under general anesthesia on [**2155-4-18**]. The
+procedure showed irregular malignant appearing high grade
+stricture in the distal CBD measuring 1.5 cm. Sphincterotomy and
+biliary stent placement were done. Cytology brushings were
+taken. In the PACU he developed acute shortness of breath and
+hypoxia. Heart rates were 100-114. Per notes, he had mild wheeze
+and bronchial breath sounds. He was intubated with
+etomidate/succinylcholine. Vital signs post-intubation were
+112/67 87 100%RA. He dropped his blood pressure requiring
+neosynephrine gtt.
+
+
+
+Past Medical History:
+CAD, MI in [**2106**] Echo showed old IPMI. stress echo in [**5-7**] showed
+no e/o ischemia.
+Afib: diagnosed 06. underwent DCCV in [**9-6**]. now back in afib.
+HTN
+Obesity
+Gout
+Hypothyroidism
+Shrapnel in his face during WWII s/p removal
+
+
+Social History:
+He is a widow with two daughters. [**Name (NI) **] is retired.
+quit smoking 42 yrs back. smoked for 1 yr. quit etoh 6 yrs back.
+was a social drinker.
+
+
+Family History:
+no h/o Ca, CAD, DM
+
+Physical Exam:
+98.2 122/70 86 16 97/RA fs187
+NAD
+heent: icterus +, no LAD, MM
+chest: CTABL
+heart: RRR, no M/R/G, nl S1 S2
+Abd: soft, NT, obese (but no recent change per pt), BS +
+Extr: 2+ pitting edema
+Neuro: no focal deficit, no asterixis
+
+
+Pertinent Results:
+see attached lab results and [**Name (NI) **] report
+
+[**Name (NI) **]:
+Impression: 1.Normal major papilla
+2.Cannulation of the biliary duct was performed with a
+sphincterotome using a free-hand technique.
+3.Cholangiogram showed a irregular malignant appearing high
+grade stricture in the distal CBD measuring 1.5 cm. The bile
+duct proximal to the stricture appeared dilated.
+4.A sphincterotomy was performed in the 12 o'clock position
+using a sphincterotome over an existing guidewire.
+5.Cytology samples were obtained for histology using a brush at
+the CBD stricture.
+6.A 7cm by 10F Cotton [**Doctor Last Name **] biliary stent was placed
+successfully across the biliary stricture.
+
+MICRO:
+Stool- c diff negative x 3
+All cultures without growth
+
+Cytology of biliary stricture: atypical cells
+
+Brief Hospital Course:
+1)Biliary obstruction:  Resolved with [**Doctor Last Name **] placement of stent.
+Obstruction appears malignant, concerning for possible
+pancreatic v cholangiocarcinoma.  Cytology inconclusive but CA
+[**65**]-9  elevated.  GI team is concerned that pt would not likely
+tolerate more aggressive biopsy.  They are considering doing an
+endoscopic ultrasound with biopsy in the future and will take
+further brushings which they discuss with daughters.
+--- Follow up [**Year (2 digits) **] for biliary stent change in [**Month (only) **], scheduled
+
+2)Hypoxic respiratory failure: Required intubation after [**Month (only) **].
+Cause undetermined, no h/o CHF but some improvement with nebs
+and diurese.  Pt also had episodes of rapid AF and so it was
+considered that possibly this had caused acute CHF or aspiration
+give occurred just after [**Month (only) **].  Continue nebs, on corgard for
+many years at home.  CXR without pneumonia, did  have small b/l
+pleural effusions. Was in the ICU, extubated [**2155-4-21**].
+
+3)AF: Pt has been on corgard for many years which he asked to
+continue rather than lopressor which was suggested.  Coumadin
+restarted [**4-23**] at his home dose.  This needs to be held for one
+week prior to [**Month (only) **] [**Month (only) **].
+
+4)Hypotension / Shock: This occured shortly after [**Month (only) **] and resp
+failure requiring intubation.  Sepsis was considered given [**Month (only) **]
+manipulation.  Cultures neg, course of levofloxacin and flagyl.
+
+
+5) Loose stool:   3 sets c. diff toxin negative.
+
+
+Medications on Admission:
+Cozaar 50mg daily
+Nadolol 60mg daily (was on lopressor in past but d/c'ed as
+fatigue was A/E.)
+Aspirin 81mg daily
+Warfarin 5mg daily
+Lovastatin 10mg daily
+Niaspan 1 tablet at bedtime
+triamterene MWF
+
+
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) u
+Injection TID (3 times a day): UNTIL INR > 2.
+2. Ipratropium Bromide 0.02 % Solution Sig: One (1) treatment
+Inhalation Q6H (every 6 hours) as needed.
+3. Warfarin 5 mg Tablet Sig: One (1) Tablet PO DAILY16 (Once
+Daily at 16): CHECK DAILY INR, ADJUST AS NEEDED.
+4. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every
+24 hours) for 3 days.
+5. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day) for 3 days.
+6. Corgard 20 mg Tablet Sig: One (1) Tablet PO once a day: Pt
+was on 60mg per day at home, titrate up as possible.
+7. Cozaar 50 mg Tablet Sig: One (1) Tablet PO once a day: Hold
+for sbp < 110.
+8. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+9. Niaspan 750 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO at bedtime.
+10. Triamterene 50 mg Capsule Sig: One (1) Capsule PO every
+other day.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+[**Location (un) **] - [**Location (un) **]
+
+Discharge Diagnosis:
+biliary obstruction, stricture on bile duct
+CAD
+AF
+HTN
+Hypothyroid
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+Please contact the doctor at the rehab with any worsening
+abdominal pain, fevers, or other concerning symptoms.
+
+Followup Instructions:
+Pt needs to return to have his biliary stent replaced in [**Month (only) **].
+Also, the pathology of the biliary stricture was inconclusive
+and so he may need further biopsy, this will be discussed by Dr. [**Name (NI) 93908**] team with the family.
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2839**], MD Phone:[**Telephone/Fax (1) 463**]
+Date/Time:[**2155-6-20**] 3:00
+Provider: [**Name Initial (NameIs) **] 2 (ST-4) GI ROOMS Date/Time:[**2155-6-20**] 3:00
+Dr. [**Last Name (STitle) **] office will contact your daughters regarding
+additional follow up if needed.
+
+
+                             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number(2) 1677**]
+
+Completed by:[**2155-4-24**]"
+case_013,"subject_id=97689 | hadm_id=126800
+
+Admission Date:  [**2140-7-14**]              Discharge Date:   [**2140-7-16**]
+
+Date of Birth:  [**2058-5-31**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 425**]
+Chief Complaint:
+DOE
+
+Major Surgical or Invasive Procedure:
+pacemaker placement
+
+
+History of Present Illness:
+82 year old female with chief compliant DOE over several months
+presenting for pacemaker placement. For the last 6mo pt would
+have dyspnea climbing 1 flight of stairs, or walking for a
+distance in her home. Denies any associated CP, syncope, LH,
+dizziness, diaphoresis. Pt's dyspnea has not progressed but
+constant over time. Last week saw Dr. [**Last Name (STitle) **] (cardiology at
+[**Telephone/Fax (1) 5768**], [**Location (un) **])pt had a holter moniter, and returned it
+on Monday. The Holter monitor found 2nd degree heart block
+(Mobitz II), and pt was admitted for pacemaker placement.
+Currently pt is asymptomatic.
+.
+Upon arrival to the [**Hospital1 18**] ED, she had temperature 97.7, BP
+151/43, HR 35, RR 16, Sat 100% on room air. She received 243 mg
+aspirin (already took 81 mg at home). Her heart rate was in the
+40s for thr duration of her ED stay without any symptoms; her BP
+remained normal.
+.
+.
+Review of sytems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or
+gain. Denies headache, sinus tenderness, rhinorrhea or
+congestion. Denied cough, shortness of breath. Denied chest pain
+or tightness, palpitations. Denied nausea, vomiting, diarrhea,
+constipation or abdominal pain. No recent change in bowel or
+bladder habits. No dysuria. Denied arthralgias or myalgias
+
+
+Past Medical History:
+- hyperlipidemia (recently self-d/c'ed atorvastatin)
+- rectal bleeding - scheduled for colonoscopy as outpt later
+this mo.
+
+
+Social History:
+no hx of smoking,etoh. Volunteers currently
+
+Family History:
+Father had a pacemaker. Mother had gastric cancer and diabetes.
+
+Physical Exam:
+Admission:
+Vitals: 97.6, 158/99, 30, 16, 99%2L
+General: pleasant, NAD
+HEENT: NC/AT, anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD
+Lungs: CTAB, no wheezes, rales, ronchi
+CV: RRR, normal S1 + S2, no murmurs, rubs, gallops
+Abdomen: +BS NT/ND, soft
+Ext: no c/c/e, pulses 2+
+Neuro: AOx3, CN II-XII grossly intact, no focal deficits
+
+
+Pertinent Results:
+[**2140-7-14**] 04:06PM BLOOD PT-12.9 PTT-25.1 INR(PT)-1.1
+[**2140-7-14**] 04:06PM BLOOD Glucose-97 UreaN-34* Creat-1.3* Na-141
+K-4.6 Cl-105 HCO3-25 AnGap-16
+[**2140-7-14**] 04:06PM BLOOD CK-MB-4
+[**2140-7-14**] 04:06PM BLOOD cTropnT-<0.01
+[**2140-7-15**] 05:09AM BLOOD CK-MB-NotDone cTropnT-<0.01
+[**2140-7-14**] 04:06PM BLOOD CK(CPK)-101
+[**2140-7-15**] 05:09AM BLOOD CK(CPK)-73
+[**2140-7-14**] 04:06PM BLOOD Calcium-9.7 Phos-3.6 Mg-2.3
+
+[**2140-7-16**] 06:20AM BLOOD WBC-7.2 RBC-3.98* Hgb-11.5* Hct-34.4*
+MCV-87 MCH-29.0 MCHC-33.5 RDW-13.8 Plt Ct-256
+[**2140-7-15**] 05:09AM BLOOD PT-12.6 PTT-25.0 INR(PT)-1.1
+[**2140-7-16**] 06:20AM BLOOD Glucose-93 UreaN-25* Creat-0.9 Na-143
+K-4.4 Cl-108 HCO3-25 AnGap-14
+[**2140-7-14**] 07:15PM URINE Color-Straw Appear-Clear Sp [**Last Name (un) **]-1.005
+[**2140-7-14**] 07:15PM URINE Blood-NEG Nitrite-NEG Protein-NEG
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+
+URINE CULTURE (Final [**2140-7-15**]):    <10,000 organisms/ml.
+
+ECG:
+Baseline artifact. Sinus rhythm at upper limits of normal rate
+with
+3:1 A-V block. Left bundle-branch block. Left axis deviation.
+Consider
+inferior myocardial infarction. Clinical correlation is
+suggested.
+No previous tracing available for comparison.
+
+ECHO:
+The left atrium is normal in size. Left ventricular wall
+thicknesses are normal. The left ventricular cavity size is
+normal. Overall left ventricular systolic function is normal
+(LVEF 70%). Right ventricular chamber size and free wall motion
+are normal. The aortic valve leaflets (3) are mildly thickened
+but aortic stenosis is not present. Mild (1+) aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Trivial mitral
+regurgitation is seen. The tricuspid valve leaflets are mildly
+thickened. Moderate [2+] tricuspid regurgitation is seen. There
+is mild pulmonary artery systolic hypertension. There is no
+pericardial effusion. There is an anterior space which most
+likely represents a fat pad.
+
+CXR 6/6/9
+Compared to the film from the prior day the leads are in similar
+location.
+Degenerative changes are noted of the spine. The lungs are clear
+without
+infiltrate or effusion.
+
+
+Brief Hospital Course:
+82yoF w/ hx of HL and no other CAD hx who p/w DOE x6mo and found
+on Holter to be in Mobitz II.
+.
+# Mobitz II 2nd degree heart block:  The patient reports DOE
+over the last last 6 months.  The patient saw her cardiologist
+and underwent holter monitoring.  It revealed  2nd degree heart
+block (Mobitz II), and the patient was admitted for pacemaker
+placement.  Admission ECG showed 3:1 AV block.  The patient had
+pacer pad placed and atropine at the bedside.  She underwent
+pacemaker placement on [**2140-7-15**] and received pre/post doses of
+vancomycin.  Additionally, she was continued on 3 days of
+keflex.  She had a CXR that did not reveal PTX and pacer leads
+in proper position.  The patient underwent ECHO that did not
+show effusion and EF of 70%. The patient tolerated the procedure
+and was discharged with device clinic follow-up in 1 week.
+
+# Coronaries: The patient with no hx of CAD. She was continued
+on ASA 81 for primary prevention.
+
+# PUMP: The patient underwent ECHo that showed EF 70%.  The
+paitent had no signs of CHF and remained euvolemic.
+
+# Hypertension: The patient with no prior history of HTN.  SHe
+did have several episodes of hypertension with SBP in the 150's.
+ This could be due to pain post-procedure or undiagnosed HTN.
+However, she did also have several measurements with SBP <120.
+Therefore, no medication were initiated.  The patient should
+have outpatient follow-up with her PCP.
+
+
+Medications on Admission:
+aspirin 81 mg daily
+
+Discharge Medications:
+1. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+hours) as needed for pain, fever.
+3. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 11 doses: last day [**2140-7-18**].
+Disp:*11 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary: Heart Block, status post pacemaker placement
+Secondary:Hyperlipidemia
+
+
+Discharge Condition:
+stable
+
+
+Discharge Instructions:
+We determined that your heart was going into dangerous rhythms
+and you had a pacemaker placed. You tolerated the procedure
+well. You will need to have your pacemaker checked in device
+clinic on [**2140-7-22**] which we have scheduled.
+
+No changes were made to your medications.
+
+If you experience chest pain, shortness of breath, dizziness,
+passing out, fevers or chills please contact your cardiologist
+or come to the emergency department for evaluation.
+
+Followup Instructions:
+Provider:  [**Name10 (NameIs) 676**] CLINIC Phone:[**Telephone/Fax (1) 62**] Date/Time:[**2140-7-22**]
+9:30
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1008**], M.D. Phone:[**Telephone/Fax (1) 62**]
+Date/Time:[**2140-7-29**] 1:00
+Provider: [**Name10 (NameIs) **] [**Last Name (NamePattern4) 7480**], MD, PHD[**MD Number(3) 708**]:[**Telephone/Fax (1) 9347**]
+Date/Time:[**2140-8-31**] 2:30
+
+
+
+Completed by:[**2140-7-18**]"
+case_014,"subject_id=72979 | hadm_id=108287
+
+Admission Date:  [**2196-1-6**]              Discharge Date:   [**2196-1-11**]
+
+Date of Birth:  [**2133-5-11**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Iodine / Macrolide Antibiotics / Sulfa (Sulfonamide Antibiotics)
+/ Gemfibrozil / Loracarbef
+
+Attending:[**First Name3 (LF) 1257**]
+Chief Complaint:
+lethargy
+
+Major Surgical or Invasive Procedure:
+intubation + ventilation
+
+History of Present Illness:
+62F h/o COPD, asthma, ?CHF (on lasix a home), on home O2 2L NC
+with 1 day hx worsening SOB, fatigue, lethargy. EMS report: ""per
+husband was really sleepy all day, only responded to name by
+lifting head and going back to sleep"" and today found home by
+EMS with O2 saturation 70% 2L (home O2 requirement), brought to
+OSH where she was unresponsive initial gas was 7.22/94/80/40,
+intubated with good response to hypoxia PaO2> 100, s/p
+solumedrol, albuterol via CPAP, levaquin, did not recieve fluids
+in OSH, transferred for further evaluation. No recent travel,
+Has dog at home, denies other animal exposures, denies contact
+with [**Name2 (NI) **] people. Unknown if had flu vaccine
+.
+Per husband had 4 hospitalizations over past year for pulmonary
+issues as well as a recurrent RLE cellulitis. Most recently was
+admitted to [**Location (un) **] ~ 4 weeks ago. Was treated with Abx,
+unknown which.
+.
+On arrival to our ED vitals were 98.4, 86, 96/78, 14, 100% on
+100% FiO2, her exam was notable for bil coarse weezes and
+diffuse erythema over panus + RLE erythema and edema. CXR
+question of aspiration per RML infiltrate, her labs were notable
+for WBC = 11,700, Neu = 95%, Hct = 51, K = 5.3, ABG:
+7.23/102/384, HCO3 = 39.  Trop X1 neg.
+On ED admission proved to be difficult to ventilate, and was
+sedated with propofol and versed with SBP drop from 90 to 70
+shortly thereafter, got 2 L fluids, and required Levofed with
+improvement in her BP's. Blood cultures were drawn X 2. Also
+given Vancomycin s/p levaquin in OSH. Prior to transfer to ICU
+was on Levofed 0.03 mg/kg/min on perippheral IV, vent settings
+were CMV FiO2 40% PEEP 10 RR 16 TV 460. Transfer vitals were 82
+106/54 16 97%. .
+.
+
+Past Medical History:
+.
+COPD/Emphysema
+Recurrent RLE cellulitis
+HLD
+HTN
+? DM
+s/p cholecystectomy
+s/p hysterectomy
+.
+
+Allergies: Iodine, Macrolids, Azithromycine, Sulfa, Gemfibrozil,
+Loracarbef (unkown severity)
+
+Social History:
+Smoking > 30 pack years, no alcohol
+Married + 5. 2 kids live with the parents aged 32 and 36.
+Husband is HCP. Reduced ADL over past 2-3 months, can't walk
+more than 5 feet, can't bathe herself.
+
+
+Family History:
+Family History:  unknown
+
+Physical Exam:
+On ICU admission:
+.
+VS: Temp:99.1 BP: 152/ 72 HR:79 RR:17  O2sat 98%
+GEN: Obese, intubated, sedated
+HEENT: PERRL, EOMI, anicteric, MMM, op without lesions, heard to
+asses jvd d/t habitus, no carotid bruits, no thyromegaly
+RESP: ronchorus bilaterally
+CV: distant HS, heard to assess
+ABD: obese, NTnd, +b/s, soft, nt, hard to assess masses or
+hepatosplenomegaly, diffuse erythematous intertrigenous eruption
+under panus and in bilateral inguinal areas with satellite
+lesions. Without local discharge
+EXT: RLE pretibial edema, erythema and chronic skin peau
+d'orange-type chronic skin changes. Otherwise well and warm
+perfused extremities.
+splinters
+NEURO: PERRL,DTR [**Name (NI) 90427**] and [**Name2 (NI) 90428**], flexor plantar
+responses.
+.
+
+Pertinent Results:
+Labs:
+.
+WBC = 11,700, Neu = 95%, Hct = 51, PLT = 237
+
+139  92   36
+-------------176
+5.3  39  1.0
+
+Ca/Mg/P = 9.2/2.3/5.3
+
+ABG: 7.23/102/384
+.
+INR = 1.0, PTT = 36
+
+ALT = 28, AST = 35, ALP = 126, T.Bili = 1.3
+.
+EKG:  sinus tachycardia 100, border line left axis, PRWP, small
+QRS voltage,
+.
+Imaging:
+
+CXR: semi-upright AP film, NG tube in place, ET tube at Carina,
+exenuated lung hiluses with vascular congestion, cephalization
+as well as some peribronchial thickening, there is loss of bil
+heart borders as well as diaphragmatic contours concerning for
+effusions and possible infiltrate.
+
+
+Brief Hospital Course:
+62 year old woman with COPD, asthma, ?CHF (on Lasix at home), on
+home O2 2L NC admitted intubated and ventilated from OSH with
+acute on chronic respiratory failure from the day of her
+admission likely [**12-23**] to COPD exacerbation. The patient was
+intubated and ventilated at OSH prior to transfer to our
+institution. ABG on admission was consistent with acute on
+chronic respiratory acidosis. She is on 2L nasal canula at home.
+Acute respiratory failure was attributable to pneumonia, COPD
+exacerbation and fluid overload from CHF exacerbation. CXR
+showed possible bilateral effusions and basilar infiltrates. TTE
+showed normal to hyperdynamic EF with diastolic dysfunction.
+STREPTOCOCCUS PNEUMONIAE grew in sputum. Patient was initially
+treated with Levofloxacin + Ceftriaxone + Vancomycin and then
+only oral Levaquin. She was covered for Influenza with Tamiflu
+for 3 days until she ruled out per nasal swab. Patient was
+extubated on day 2 of admission, following extubation she had
+some hypoxia which improved with IV Lasix 40 mg (acute diastolic
+heart failure). She was subsequently started on her home dose of
+Lasix 40 mg [**Hospital1 **]. Patient was additionally treated with a course
+of prednisone as well as Albuterol and Ipratropium nebs and
+Advair 250/50 1 puff [**Hospital1 **]. She had abdominal/inguinal superficial
+skin infection which appeared fungal and improved markedly with
+topical treatment. She had hypotension on admission was from
+sedation agents. AM cortisol was elevated, ruling out adrenal
+insufficiency. Levophed was weaned quickly without any need for
+pressors since AM of [**1-6**]. She had RLE edema: from chronic
+lymphedema without recurrent cellulitis. No evidence of DVT on
+U/S. She was discharged home on [**12-24**] L of oxygen without rales or
+wheezing.
+
+
+Medications on Admission:
+Medications at home (confirmed with husband):
+.
+Lassix 40mg [**Hospital1 **]
+Norvasc 5mg QD
+Potassium 8meq [**Hospital1 **]
+Aspirin 81mg QD
+B12 Inj 1000mcg Q3weeks
+Xanax 0.5mg PRN
+Fioricet 2 tabs q4h PRN for Jaw pain
+Oxygen 2 L
+pharmacy [**Telephone/Fax (1) 90429**]
+.
+
+
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+2. ipratropium bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+3. furosemide 40 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+4. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID
+(2 times a day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. fluticasone-salmeterol 250-50 mcg/dose Disk with Device Sig:
+One (1) Disk with Device Inhalation [**Hospital1 **] (2 times a day).
+6. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).
+7. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical [**Hospital1 **]
+(2 times a day).
+8. prednisone 10 mg Tablet Sig: Four (4) Tablet PO once a day
+for 4 days: then 3 tablets daily for 3 days then 2 tablets daily
+for 2 days then 1 tablet for 1 day.
+Disp:*30 Tablet(s)* Refills:*0*
+9. Levaquin 750 mg Tablet Sig: One (1) Tablet PO once a day for
+3 days.
+Disp:*3 Tablet(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+smoking
+streptococcal pneumonia
+acute COPD exacerbation
+acute diastolic heart failure
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Discharge Instructions:
+Please stop smoking because smoking give you lung cancer. You
+had pneumonia and acute COPD exacerbation. You will take
+antibiotic and prednisone taper for few days.
+
+Followup Instructions:
+[**Last Name (LF) **],[**First Name3 (LF) **] G. [**Telephone/Fax (1) 28612**]"
+case_015,"subject_id=31079 | hadm_id=122279
+
+Admission Date:  [**2144-2-14**]              Discharge Date:   [**2144-2-17**]
+
+Date of Birth:  [**2065-1-18**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Amoxicillin / Nitroimidazole Derivatives / Lisinopril /
+Chlorophyllin (Chlorophyll) Analogues / Chlorhexidine Gluconate
+/ Dextrose 0.5%-Water / IV Dye, Iodine Containing / Clonidine
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+CC: ""weakness""
+Reason for MICU transfer: drop in Hct, guiac positive
+
+
+Major Surgical or Invasive Procedure:
+None
+
+History of Present Illness:
+This is a 79 yo F with h/o hypertension, CVA in
+[**2131**] with residual left-sided weakness, epilepsy and Afib on
+Couamdin, now brought in today by daughter because of worsened
+generalized weakness and lethargy for the last one week. At
+baseline, pt is verbal, conversant, oriented, gets around in a
+wheelchair. Pt with decreased PO intake as well.
+.
+In the ED, initial VS were T 97.5 HR 70 BP 143/62 RR 20 O2 sat
+100%. CT head was neg. Patient intermittently tender on abd exam
+so a CT abd was performed which showed no acute process. Labs
+revealed a Hct of 22.5 (down from 35.7 2 months ago). Pt was
+guiac positive with green stool. EKG showed NSR 63, LVH and a
+prolonged QTc. UA was neg for infection. GI evaluated pt and
+recommended 2U pRBCs, PPI gtt and checking iron studies and
+hemolysis labs. Pt was also ordered for 2 bags of FFP given INR
+of 3.4. Pt has 2 PIVs. On transfer, VS were HR 54 BP 132/48 RR
+17 O2 94% on RA.
+.
+Upon arrival to the ICU, pt is somnelent, not arousable to
+voice, midly responsive to sternal rub. Daughter at bedside who
+provided history. Denies bloody stools, dark stools, dysuria,
+URI symptoms, constipation. Does endorse 3 bowel movements for
+the last 2 days, but only one today. Denies seizure activity
+(last seizure was 1 1/2 months ago).
+.
+ROS: as per HPI, denies CP, SOB, HAs, acute visual changes,
+nausea/vomiting, dysuria. Endorses weight loss last few weeks
+but not able to estimate how much. endorses mild diarrhea as
+above.
+
+
+Past Medical History:
+- PVD s/p multiple stents of the superficial femoral artery
+and balloon angioplasty of the tibial peroneal trunk; then found
+
+to have restenosis of SFA s/p angioplasty with stent placement
+[**2140-9-23**]
+- s/p CVA [**2131**] with residual left sided weakness
+- Seizure disorder with partial seizures. Usually left arm
+symptoms only.
+- Stage III CKDz
+- Hypertension
+- Hyperlipidemia
+- Type 2 diabetes
+- CHF with preserved LVEF
+- Atrial fibrillation on anticoagulation
+- s/p hysterectomy
+- s/p CCY
+- h/o adenomatous polyp on colonoscopy [**2136**]
+- h/o Grade 2 internal hemorrhoids on colonoscopy [**2136**]
+
+
+Social History:
+Patient lives with her 88 yo spouse in a [**Location (un) **] handicap
+accessible apartment. She has a daughter in the area who is her
+HCP. She has home PCA. Pt denies ETOH, smoking (quit 30
+years ago) or drug use
+
+
+Family History:
+Mother died of a stroke in 80??????s. No FH PE, DVT, early CAD.
+
+Physical Exam:
+VS: Temp: 97.6 BP: 144/70 HR: 64 RR: 15 O2sat 97% on RA
+GEN: sleepy, nonrousable but later awake, uncooperative with
+exam
+HEENT: left pupil oval shaped but reactive to light, blind in
+right eye, anicteric, dry MM, OP without lesions
+Neck: no LAD, no JVD, no masses
+RESP: bibasilar crackles, no wheezes
+CV: irregular rhtyhm, regular rate, S1 and S2 wnl, no m/r/g
+ABD: soft, nondistended, nontender
+EXT: no edema
+SKIN: +hyperpigmentation in bilat lower ext, no rashes
+NEURO: AAOx2 (name, ""hospital""). CNII-XII intact. 2/5 strength
+in LUE, LLE. 5/5 strength in RUE, RLE. sensation intact.
+
+
+Pertinent Results:
+[**2144-2-14**] 01:35PM BLOOD WBC-7.8 RBC-2.37*# Hgb-7.6*# Hct-22.5*#
+MCV-95 MCH-31.8 MCHC-33.5 RDW-14.8 Plt Ct-198
+[**2144-2-15**] 04:28AM BLOOD WBC-7.6 RBC-3.29* Hgb-10.4* Hct-29.9*
+MCV-91 MCH-31.6 MCHC-34.8 RDW-16.5* Plt Ct-176
+[**2144-2-16**] 06:25PM BLOOD WBC-13.5* RBC-3.21* Hgb-10.5* Hct-30.8*
+MCV-96 MCH-32.7* MCHC-34.0 RDW-16.1* Plt Ct-195
+[**2144-2-14**] 01:35PM BLOOD PT-33.9* PTT-34.9 INR(PT)-3.4*
+[**2144-2-16**] 04:12AM BLOOD PT-33.3* PTT-32.4 INR(PT)-3.4*
+[**2144-2-14**] 01:35PM BLOOD Ret Aut-4.1*
+[**2144-2-14**] 01:35PM BLOOD Glucose-160* UreaN-44* Creat-1.8* Na-148*
+K-3.7 Cl-111* HCO3-25 AnGap-16
+[**2144-2-16**] 08:14PM BLOOD Glucose-176* UreaN-49* Creat-1.9* Na-151*
+K-5.3* Cl-113* HCO3-23 AnGap-20
+[**2144-2-16**] 04:12AM BLOOD proBNP-5168*
+[**2144-2-14**] 01:35PM BLOOD Phenyto-19.8
+[**2144-2-15**] 09:15AM BLOOD Phenyto-20.5* Phenyfr-2.0 %Phenyf-10
+[**2144-2-15**] 04:28AM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG
+Barbitr-NEG Tricycl-NEG
+[**2144-2-14**] 01:35PM BLOOD calTIBC-260 VitB12-622 Folate-GREATER TH
+Hapto-177 Ferritn-64 TRF-200
+[**2144-2-16**] 06:21PM BLOOD Type-ART pO2-62* pCO2-67* pH-7.24*
+calTCO2-30 Base XS-0
+[**2144-2-16**] 10:53PM BLOOD Type-ART pO2-65* pCO2-71* pH-7.20*
+calTCO2-29 Base XS--1
+
+Brief Hospital Course:
+This is a 79 yo F with h/o hypertension, CVA in [**2131**] with
+residual left-sided weakness, epilepsy and Afib on Couamdin, who
+now presents with weakness and found to have Hct drop who
+subsequently developed hypoxic respiratory failure.
+.
+# Anemia: Unclear if anemia was acute or subacute. It is
+presumably related to GI blood loss since she was guaiac
+positive, however, could also be Fe def [**2-12**] poor nutrition.
+Hemolysis labs negative. She was satrted on PPI drip then
+transitioned to PPI IV BID. GI was consulted and planned to
+scope her once INR trended down. She received 2 units PRBCs.
+.
+# Lethargy/generalized weakness: Unclear etiology but most
+likely secondary to hypovolemia and anemia. Throughtou her
+hosptial course, however, she never became interactive or alert
+as she develoepd profound hypoxemia. Hypernatremia likely also
+contributed to lethargy.
+.
+#. Hypoxic hypercarbic respiratory failure: Pt wasinitially 97%
+on RA on arrival to MICU but became progressively more hypoxic.
+She had witnessed aspiration event on [**2-15**] and CXR was consistent
+with bilateral airspace opacities and likely pulmonary edema. We
+attempted to diurese her but she did not respond to lasix up to
+80mg IV and was not awake enough to tolerate BiPap. She became
+more lethargic and unresponsive and was not effectively
+ventilating. ABG was 7.20/67/62 on 100% NRB. Given her
+progressive decline and her wishes to be DNR/DNI, her family was
+contact[**Name (NI) **] and she was made [**Name (NI) 3225**]. They were at her bedside when
+she expired at 2:05am on [**2144-2-17**]. Progressive hypoxic respiratory
+failure was attributed to development of pulmonary edema or
+TRALI related to blood transfusions or ARDS/[**Doctor Last Name **] related to
+aspiration event.
+.
+# Diarrhea: likely viral etiology but has h/o c diff
+- check c diff, stool studies
+.
+# Afib: Warfarin held and she was given FFP given
+supratherapeutic INR.
+.
+# Seizure d/o:  Phenytoin level monitored
+.
+
+
+
+
+Medications on Admission:
+1. amlodipine 10 mg DAILY
+2. clopidogrel 75 mg DAILY
+3. famotidine 40 mg Q24H
+4. fluticasone 50 mcg/Actuation Spray One Spray [**Hospital1 **]
+5. furosemide 80 mg DAILY
+6. gabapentin 400 mg [**Hospital1 **]
+7. insulin regular 8 Units twice a day
+8. NPH 16 Units SC qam
+9. NPH 12 Units SC at bedtime
+10. hydralazine 150 mg [**Hospital1 **]
+11. lorazepam 0.5 mg at bedtime as needed for anxiety
+12. phenytoin sodium extended 100 mg 4 times a day
+13. rosuvastatin 40 mg DAILY
+14. sertraline 100 mg DAILY
+15. sotalol 80 mg 2 times a day
+16. valsartan 320 mg DAILY
+17. ferrous sulfate 300 mg (60 mg Iron) DAILY
+18. multivitamin DAILY
+19. spiranolactone 25mg daily
+20. warfarin 4mg daily except 3mg on Tues
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Expired
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+None"
+case_016,"subject_id=30678 | hadm_id=197019
+
+Admission Date:  [**2103-10-10**]              Discharge Date:   [**2103-10-20**]
+
+Date of Birth:  [**2033-9-7**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+Univasc / Lipitor / Vitamin E / Ambien
+
+Attending:[**First Name3 (LF) 398**]
+Chief Complaint:
+hematemesis
+
+Major Surgical or Invasive Procedure:
+Intubation
+Central line placement
+
+History of Present Illness:
+Mr. [**Known lastname **] is a 70 yo man with a history of COPD with
+approximately thrice yearly hospitalizations for exacerbations,
+HTN, CHF, CVA,
+lung CA s/p resection, and AAA s/p repair [**1-20**] presenting with
+hematemesis. Of note he was discharged from [**Hospital1 18**] [**10-4**] for
+URI/COPD exacerbation.  This am noted he felt weak/lightheaded
+upon arising from bed, fell to floor. Had 1x episode of vomiting
+maroon blood.  Continued to have sx of lightheadedness.  At time
+of presentation to ED, was HD stable with VS 98.6 88 156/85 18
+100% 2L.  Reported some CP day prior to admission, currently
+resolved.  Did have some elevated LFTs on initial testing with
+RUQ tenderness. A RUQ u/s was done which showed some evidence of
+GB swelling without CBD dilitation.  Got 2L IVF in ED as well as
+nebs and IV PPI. Pt guaiac negative on exam.  CXR was negative
+for evidence of new infiltrate. ECG unchanged.
+.
+On ROS pt notes that he did fall and hit head this morning, does
+not think he lost consciousness.  Had also fallen a few weeks
+ago and hit his coccyx, has some pain there when he sits.
+Denies recent chest discomfort or shortness of breath. Does
+endorse worsening cough over past week productive of sputum.
+States that he had ~500cc of maroon hematemesis after falling,
+says this happened before in [**Month (only) **] when he had an UGIB at an OSH
+but it was a higher volume then. No nausea. No abd pain, no
+constipation or diarrhea. Last BM earlier today.
+
+
+Past Medical History:
+1. Hypertension
+2. Hyperlipidemia
+3. Peripheral vascular disease with right SFA atherectomy and
+left external iliac artery stenting in [**2101**].
+4. Cardiomyopathy - likely non-ischemic from Chemo
+5. Carotid stenosis - likely d/t parotid XRT, s/p stenting to
+the left common carotid and internal carotid in [**2100**]
+6. AAA (thoracoabdominal) s/p endovascular repair
+7. Small-cell carcinoma of the parotid gland s/p chemo and XRT
+8. History of lung carcinoma s/p wedge resection left upper lobe
+
+on and right lower lobe superior segmentectomy on [**11-17**]
+9. History of supraventricular tachycardia
+10. Depression
+11. COPD with an FEV-1 of 42%
+12. Chronic kidney disease, stage II to III (Cr 1.4-1.9)
+13. UGIB in early [**7-28**]. CHF secondary to cardiomyopathy
+
+
+Social History:
+Patient smoked for 50 years, quit 3 years ago. quit drinking 24
+year ago. he is now retired but had his own business prior to
+retiring. Lives at [**Doctor Last Name **] House which is [**Hospital3 **] where he
+is independent except for med administration and meals.
+
+
+Family History:
+Father and sister have [**Name (NI) 2320**]. mother and brother have [**Name2 (NI) 499**] CA.
+
+Physical Exam:
+Vitals: T: 96 BP:147/102  P:71  R:12  SaO2: 100%
+General: Drowsy, easily arousable, frail appearing elderly
+gentleman in NAD
+HEENT: small tender pink swelling on occiput, ttp on right
+mastoid process. Thrush.  MMM.  conjunctiva not pale or
+injected. no scleral icterus.
+Neck: s/p radiation. No bruits.
+Pulmonary: Diminished air exchange b/l, slight rhonchi, clear
+with coughing.  wheezes on forced expiration. diminished  bs
+right base with pneumonectomy scar.
+Cardiac: RR, nl S1 S2, no murmurs, rubs or gallops appreciated
+Abdomen: s/p AAA repair scar. No HSM. negative [**Doctor Last Name **]. No
+abdominal  bruit. + BS, soft ND/NT
+Extremities: No edema. cool. 1+ TP pulses.  Small ecchymosis
+with excoriation to right of coccyx. No midline tenderness.
+Skin: no rashes or lesions noted.
+Neurologic: Drowsy. Oriented x 3. Falling asleep during
+conversation but easily arousable.  Follows all commands.  Poor
+short term memory. CN II- XII intact.  Moving all extremities
+symetrically.
+
+Pertinent Results:
+RUQ u/s: Preliminary Report
+THICKENING AND EDEMA OF THE WALL OF THE GALLBLADDER WITHOUT
+INTRA OR EXTRA HEPATIC BILIARY DILATATION. HIDA SCAN RECOMENDED
+TO EXCLUDE ACALCULOUS CHOLECYSTITIS
+.
+CXR:Unchanged, no acute process.
+.
+EKG: NSR at 66, LBBB, LVH, LAD, RA abnormality.  No change from
+prior.
+
+Brief Hospital Course:
+70 yr old man with severe COPD on (steroids high dose) and
+course of azithromycin, HTN, CHF (cardiomyopathy s/p chemo) lung
+cancer s/p resection, AAA in [**10-21**] presented with chief compliant
+of hematemesis. The morning of admission at NH, s/p fall
+reaching from nightstand with head trauma -- shortly thereafter
+reports of vomiting blood.  Initial evaluation significant for
+lactate 2.8, abnormal gallbladder on US thickened wall with
+edema.  Overnight became cold, clammy, hypotensive with
+tachypnea and chest pain.  Initially negative cardiac enzymes.
+Received femoral A-line, venous access, started dopamine
+peripheral changed to levophed with subsequent tachycardia.
+Switched to dopamine and dobutamine.  He received 3L fluid.
+Cards TTE preliminary global hypokinesis.  Gas 7.12/42, lactate
+7.7.  CT abdomen with PO contrast edematous gallbladder no other
+significant findings.  TEE unremarkable for dissection,
+empirically started on heparin for concern of primary cardiac
+etiology vs PE. Morning of [**10-12**] developed bright red blood per
+ETT tube.  [**2025-10-10**], able to wean dopamine and dobutamine;
+however during the day of [**10-13**] he required further dopamine.
+RUQ U/S negative for portal vein thrombosis, gall bladder mildly
+edematous. LENIs negative for DVTs. Given 500cc bolus without
+any change in UOP. Received platelets [**10-12**] for platelet count 51
+in setting of hemoptysis.  Renal consulted for initiation of
+hemodialysis as his shock was complicated by ATN with persistent
+renal failure, now on HD, has temporary left IJ dialysis line.
+Of note, the patient was also found to have enterobacter in his
+sputum so was treated with IV cefepime for presumed VAP. After
+discussion with family, patient was made do-not-reintubate.
+Patient was successfully extubated on [**2103-10-19**] and on nasal
+cannula but with tachypnea and tenuous respiratory status when
+moved. Patient also not tolerating any POs and extremely weak.
+We had conversation with patient's HCP on [**2103-10-20**] and decision
+was made to make patient CMO and to have goal to keep patient
+comfortable. All medications were discontinued except for IV
+morphine for comfort. The patient passed away comfortably at
+5:40pm on [**2103-10-20**].
+
+Medications on Admission:
+1. Fluticasone-Salmeterol 250-50 mcg [**Hospital1 **]
+2. Pantoprazole 40 mg Tablet daily
+3. Fluoxetine 20 mg Capsule daily
+4. Simvastatin 40 mg Tablet daily
+5. Multivitamin 1 daily
+6. Folic Acid 1 mg  DAILY
+7. Docusate Sodium 100 mg PO BID
+8. Acetaminophen 325 mg Tablet1-2 Q6H PRN
+9. Gabapentin 200mg daily
+10. Aspirin 325 mg Tablet daily
+11. Guaifenesin prn
+12. Isosorbide Mononitrate 30 mg Tablet Sustained Release daily
+13. Metoprolol Tartrate 50 mg Tablet PO Q8H
+14. Lisinopril 10 mg Table PO DAILY
+16. Prednisone 20 mg Tablet Sig: 1-3 Tablets PO DAILY (Daily)
+for 8 days: Please take 60 mg ([**10-5**], [**10-6**], [**10-7**], [**10-8**]), followed
+
+by 40 mg ([**10-9**], [**10-10**]), followed by 20 mg ([**10-11**], [**10-12**]).
+15. Prednisone 5 mg Tablet Sig: 1-2 Tablets PO once a day for 4
+days: Please take 10 mg ([**10-13**], [**10-14**]) followed by 5 mg ([**10-15**],
+[**10-16**]).
+17. Albuterol
+18. Hydrochlorothiazide 25 mg Tablet daily
+
+Discharge Medications:
+Patient expired
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Patient expired
+
+Discharge Condition:
+Patient expired
+
+Discharge Instructions:
+Patient expired
+
+Followup Instructions:
+Patient expired"
+case_017,"subject_id=27793 | hadm_id=183352
+
+Admission Date:  [**2163-6-21**]              Discharge Date:   [**2163-6-22**]
+
+Date of Birth:  [**2082-6-3**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Penicillins / Codeine / Ketorolac
+
+Attending:[**First Name3 (LF) 3326**]
+Chief Complaint:
+Angioedema flare
+
+Major Surgical or Invasive Procedure:
+None
+
+
+History of Present Illness:
+81 y.o. presented to [**Location (un) 620**] with long history angioedema since
+[**2106**]. Known difficult airway, has had tracheostomy in [**2163-2-22**]
+of this year in [**State **], trach removed in [**2163-3-24**]. Presented
+with tongue swelling, lip swelling, hoarse voice. Of note the
+sorethroat began on Sunday. She carries an epi pen but did not
+think the episode was severe enough to warrant usage. Given her
+hoarseness worsened she decided to present to ER.
+At [**Hospital1 18**] [**Location (un) 620**] received 0.5ml racemic epinephrine nebulizer,
+50mg IV benadryl, 125mg IV solumedrol, 50mg IV famotidine, 1ml
+sq injection 1:1000 epinephrine. Transferred to [**Hospital1 18**] ED with
+some improvement with hoarse voice given history of difficult
+airway.
+.
+In the ED, she did not receive any further treatment. Vitals
+were 97.7, 73, 148/73, 18, 98% on 2L. She was going to be
+discharged but decision was reversed and she was admit to ICU.
+.
+ROS: The patient denies any fevers, chills, weight change,
+nausea, vomiting, abdominal pain, diarrhea, constipation,
+melena, hematochezia, chest pain, shortness of breath,
+orthopnea, PND, lower extremity oedema, cough, urinary
+frequency, urgency, dysuria, lightheadedness, gait unsteadiness,
+focal weakness, vision changes, headache, rash or skin changes.
+
+.
+
+
+Past Medical History:
+GERD
+breast cancer (in situ)
+HTN
+
+
+Social History:
+Worked at [**Hospital1 18**] as a nurse years ago, currently retired, non
+smoker, no alcohol or drug use. Lives with son in [**Name (NI) 620**].
+
+Family History:
+NC
+
+Physical Exam:
+Vitals: T: BP: HR: RR: O2Sat:
+GEN: Well-appearing, well-nourished, no acute distress
+HEENT: EOMI, PERRL, sclera anicteric, no epistaxis or
+rhinorrhea, MMM, OP Clear
+NECK: No JVD, carotid pulses brisk, no bruits, no cervical
+lymphadenopathy, trachea midline
+COR: RRR, no M/G/R, normal S1 S2, radial pulses +2
+PULM: Lungs CTAB, no W/R/R
+ABD: Soft, NT, ND, +BS, no HSM, no masses
+EXT: No C/C/E, no palpable cords
+NEURO: alert, oriented to person, place, and time. CN II ?????? XII
+grossly intact. Moves all 4 extremities. Strength 5/5 in upper
+and lower extremities. Patellar DTR +1. Plantar reflex
+downgoing. No gait disturbance. No cerebellar dysfunction.
+SKIN: No jaundice, cyanosis, or gross dermatitis. No ecchymoses
+
+
+Pertinent Results:
+[**2163-6-21**] 03:10AM   GLUCOSE-105 UREA N-30* CREAT-1.0 SODIUM-141
+POTASSIUM-3.4 CHLORIDE-101 TOTAL CO2-31 ANION GAP-12
+[**2163-6-21**] 03:10AM   WBC-10.1 RBC-3.93* HGB-11.6* HCT-34.1* MCV-87
+MCH-29.4 MCHC-33.9 RDW-13.7
+[**2163-6-21**] 03:10AM   NEUTS-87.0* LYMPHS-10.7* MONOS-1.5* EOS-0.6
+BASOS-0.2
+[**2163-6-21**] 03:10AM   PLT COUNT-287
+[**2163-6-21**] 03:10AM   PT-12.4 PTT-26.6 INR(PT)-1.0
+
+CXR [**2163-6-21**]
+FINDINGS: No previous images. Obliquity of the patient makes it
+difficult to
+evaluate mediastinal structures. However, the single frontal
+view shows no
+definite tracheal abnormality. Cardiac silhouette is somewhat
+prominent and
+there is indistinctness of pulmonary vessels suggesting some
+elevated
+pulmonary venous pressure. No acute focal pneumonia.
+
+NECK SOFT TISSUES PORTABLE [**2163-6-21**]
+IMPRESSION:
+Soft tissue density projecting over and obscuring the bilateral
+valleculae and
+epiglottis. The differential diagnosis is broad. The finding may
+be amenable
+to direct endoscopic inspection. Alternatively, MRI of the neck
+could be
+obtained for further evaluation.
+
+
+Brief Hospital Course:
+Pt is an 81 y/o F with a long history of angioedema, known
+difficult airway, and hx of tracheostomy in [**2163-2-22**] after
+severe angioedema flare. Pt initially presented to [**Location (un) 620**] for
+increased lip and tongue swelling and sore throat, and received
+treatment (nebulized epinephrine, benadryl, sc epinephrine, and
+iv solumedrol.) Pt was then transferred to the [**Hospital1 18**] ED given
+history of difficult airway. Pt was initially going to be
+discharged but was eventually admitted to the ICU for further
+observation. Since admission to the unit, pt has been doing
+well. Pt appeared to be back to her baseline with resolution of
+tongue and lip swellilng. Hoarse voice persisted, but pt denied
+any difficulty breathing, and was tolerating  PO's on day of
+discharge. Pt had had a sore throat since 2 days prior to
+admission, with mildly productive cough, and these symptoms were
+improved during her stay. A viral URI may likely have been the
+trigger for her angioedema exacerbation. During admission, she
+did not require any additional epinephrine or solumedrol. She
+was seen by an allergist, and was discharged with 2 days total
+of Prednisone 40mg daily, with a prescription for 60mg x 3 days
+available for future flares.  Pt is to continue her home dose of
+Prednisone 5mg every other day, and follow up with her
+allergist, Dr. [**Last Name (STitle) **] within the next 1-2weeks. Pt was continued
+on the rest of her home medications during her hospital stay.
+
+Medications on Admission:
+Claritin 10mg PO daily
+Prednisone 5mg PO qod
+[**Doctor First Name **] 180mg PO daily
+Prilosec 20mg PO daily
+Amlodipine 10mg PO daily
+
+Discharge Medications:
+1. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO BID (2
+times a day).
+2. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO once a day for
+1 days: Please take 40mg x 1 on [**6-23**].
+Disp:*2 Tablet(s)* Refills:*0*
+3. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at
+bedtime).
+4. Timolol Maleate 0.25 % Drops Sig: One (1) Drop Ophthalmic
+DAILY (Daily).
+5. Loratadine 10 mg Tablet Sig: One (1) Tablet PO daily ().
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+7. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO
+DAILY (Daily).
+8. Fexofenadine 180 mg Tablet Sig: One (1) Tablet PO once a day.
+
+9. Prednisone 5 mg Tablet Sig: One (1) Tablet PO every other
+day.
+10. Prednisone 20 mg Tablet Sig: Three (3) Tablet PO once a day
+as needed for angioedema flare: Please take 60mg daily for up to
+3 days for an angioedema flare.  If you take a dose of 60mg,
+Disp:*9 Tablet(s)* Refills:*0*
+11. Amlodipine 10mg PO daily
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Primary:
+Angioedema
+.
+Secondary:
+HTN
+GERD
+
+
+Discharge Condition:
+Good. Pt was tolerating PO intake, hemodynamically stable, and
+breathing without difficulty.
+
+
+Discharge Instructions:
+You were admitted to the hospital for a flare of angioedema. We
+treated you with steroids and antihistamines, and observed you
+overnight in the intensive care unit to ensure that your airway
+remained patent.
+.
+Please take Prednisone 40 mg on Thursday, [**6-23**], then take 5 mg
+every other daily as usual. In case of another flare of
+angioedema, you may take 60 mg of Prednisone once daily for up
+to three days and also take Benadryl. You will want to formulate
+a plan for any future flares with your allergy doctor.
+.
+If you experience tongue swelling, difficulty breathing, hoarse
+voice, fevers/chills, nausea/vomiting, or any other concerning
+symptoms, please call your primary care physician or return to
+the emergency room.
+
+
+Followup Instructions:
+Please call Dr. [**Last Name (STitle) **] at [**Hospital1 96707**] clinic to make a follow-up
+appointment for sometime within the next week.
+.
+Please call your primary care physician to follow up within [**11-24**]
+weeks.
+.
+Please attend the following appointments that have been made for
+you:
+Provider: [**Name10 (NameIs) 706**] Phone:[**Telephone/Fax (1) 1125**] Date/Time:[**2163-6-22**] 2:30
+
+
+
+Completed by:[**2163-6-22**]"
+case_018,"subject_id=97852 | hadm_id=139406
+
+Admission Date:  [**2126-3-11**]              Discharge Date:   [**2126-3-12**]
+
+Date of Birth:  [**2076-10-14**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 25936**]
+Chief Complaint:
+Palpitations/pre-syncope
+
+Major Surgical or Invasive Procedure:
+EP study
+Dual chamber pacemaker
+
+
+History of Present Illness:
+This is a 49 yo female who has a history of hypothyroidism,
+morbid obesity, polycystic ovarian disease, but no know heart
+disease presenting here with twinges in her chest and
+lightheadedness.  In early [**Month (only) **] she reported to her PCP that
+she was having episodic lightheadedness and palpitations.  In
+particular she reported an episode of palpitation with her heart
+racing and a fluttering in her neck.  She presented to her PCP
+where on ECG she was noted to have a wide complex tachycardia
+with RBBB morphology and left superior axis.  She was then
+referred to the NWH ER where she was treated with adensine up to
+12mg, metoprolol 5mg, lidocaine 25 and 50mg boluses, and
+diltiazem 20 and 25mg.  She was eventually transferred to [**Hospital1 2025**] ER
+where she was started on an esmolol gtt after which she
+converted to sinus and remain in sinus throughout her
+hospitalization at [**Hospital1 2025**].  She was discharged on metoprolol with
+follow up with EP for possible EP study.
+.
+It was unclear if this wide complex tachycardia was SVT with
+aberrency or VT.  She was seen by Dr. [**First Name (STitle) **] (see his note on
+[**2126-2-8**]).  He continued metoprolol at 100mg daily.  An
+adenosine MIBI didn't show any ischemia and her echo was normal.
+ She was started on a holter monitor.
+.
+Today she presents to the ED after more intermittent episodes of
+twinges in her chest and lightheadedness.  She described 2
+episodes where she was sitting on her couch watching her 4 year
+old daughter and 'blacked out'.  She recorded the episode on her
+holter.  The cardiologist from the holter company called her at
+home and told her to go immediately to the ED for evaluation for
+long pauses.
+.
+In the ED, the patient experience another episode where she
+passed out, which corresponded with a 15 second pause.  The
+patient also experience two more epiosodes of 12 second pauses
+with syncope. Her hemodynamics were stable with these pauses and
+did not drop her blood pressure of her O2 sats's.  She was
+urgently taken to the cardiology suite where a temporary pacer
+was placed with a minimal rate to 60. She was transfer to the
+CCU for further observation.
+.
+On arrival to the CCU, she was chest pain free and denies
+lightheadness or SOB. She complainted of appropriate pain at the
+site of the pacer insertion site on her neck.
+.
+On review of systems, s/he denies any prior history of stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. S/he denies recent fevers, chills or
+rigors. S/he denies exertional buttock or calf pain. All of the
+other review of systems were negative.
+.
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope or presyncope.
+.
+
+
+Past Medical History:
+HERPES SIMPLEX
+POLYCYSTIC OVARIES
+Hypothyroidism
+IRITIS - ACUTE / SUBACUTE, UNSPEC
+INFERTILITY - FEMALE, UNSPEC ETIOL
+OBESITY - MORBID
+HYPOMENORRHEA/OLIGOMENORRHEA
+Cholelithiasis
+
+
+Social History:
+- Tobacco history:  never
+- ETOH:  rare
+- Illicit drugs:  no
+
+
+Family History:
+CAD-grandfather
+lung CA in father
+
+
+Physical Exam:
+PHYSICAL EXAMINATION on Admission:
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of *** cm.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or
+S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+NEURO: AAOx3, CNII-XII intact, 5/5 strength biceps, triceps,
+wrist, knee/hip flexors/extensors, 2+ reflexes biceps,
+brachioradialis, patellar, ankle.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+
+
+Pertinent Results:
+LABS ON ADMISSION:
+
+[**2126-3-11**] 05:43AM BLOOD WBC-6.6 RBC-3.31* Hgb-10.3* Hct-29.4*
+MCV-89 MCH-31.3 MCHC-35.1* RDW-13.1 Plt Ct-170
+[**2126-3-10**] 09:29PM BLOOD PT-11.3 PTT-29.8 INR(PT)-1.0
+[**2126-3-10**] 09:29PM BLOOD Glucose-101* UreaN-11 Creat-0.7 Na-140
+K-3.8 Cl-107 HCO3-21* AnGap-16
+[**2126-3-10**] 09:29PM BLOOD cTropnT-<0.01
+[**2126-3-10**] 09:29PM BLOOD Calcium-9.3 Phos-2.9 Mg-1.9
+[**2126-3-10**] 09:29PM BLOOD D-Dimer-636*
+[**2126-3-10**] 09:29PM BLOOD TSH-1.2
+
+LABS ON DC:
+
+[**2126-3-12**] 02:34AM BLOOD WBC-7.2 RBC-3.60* Hgb-11.1* Hct-31.7*
+MCV-88 MCH-30.7 MCHC-35.0 RDW-13.1 Plt Ct-192
+[**2126-3-12**] 02:34AM BLOOD PT-12.0 PTT-28.7 INR(PT)-1.1
+[**2126-3-12**] 02:34AM BLOOD Glucose-103* UreaN-7 Creat-0.6 Na-136
+K-4.0 Cl-107 HCO3-21* AnGap-12
+[**2126-3-12**] 02:34AM BLOOD Albumin-3.6 Calcium-8.1* Phos-2.9 Mg-1.9
+[**2126-3-12**] 02:34AM BLOOD [**Doctor First Name **]-POSITIVE * Titer-1:80
+
+CXR [**2126-3-12**]:
+FINDINGS: Chest PA and lateral radiograph demonstrates
+unremarkable
+mediastinal, hilar and cardiac contours. Lungs are clear. No
+pleural
+effusion or pneumothorax evident. Interval placement of a
+left-sided
+pacemaker with lead tips positioned in the right atrium and
+right ventricle.
+
+
+Brief Hospital Course:
+HOSPITAL COURSE: 49F with a recent history of SVT vs. VT treated
+with metoprolol, presenting with symptomatic bradyarrythmias
+with 12-15 second pauses, who got a temporary pacer for
+paroxysmal atrioventricular block
+
+# Paroxysmal atrioventricular block: The patient presented with
+3 [**12-14**] second pauses resulting in syncope due to non-conducted
+p-waves. A temporary PM was placed with a back-up rate of 60.
+Lyme serology was -ve. A permanent pacemaker placement was
+subsequently palced after an EP study. Pt was discharged on
+keflex.
+
+EP recs:
+Sinus node: Not formally assessed, no abnormalities
+Atria: Normal, no inducible arrhythmias
+AV node: Dual pathway physiology present.  No sustained
+arrhythmias induced.  Very poor VA conduction with poorly
+tolerated RV pacing.  No paroxysmal AV block induced.
+HPS: Abnormal HIV with infra-hisian conduction disease evident
+Ventricles: No inducible arrhythmias.  no evidence of accessory
+pathway conduction antegrade or retrograde
+
+# h/o svt with aberrancy vs. VT- the patient was on metoprolol
+100mg daily for rate control. She was being followed by Dr.
+[**First Name (STitle) **]
+
+# hypothryoidism: we continued home medication of levothyroxine
+150mcg
+
+TRANSITIONAL ISSUES: Followup with Dr [**First Name (STitle) **] was arranged. Pt had
+an elevated [**Doctor First Name **] that may require further workup. Only med change
+was addition of keflex.
+
+
+
+Medications on Admission:
+METOPROLOL SUCCINATE ORAL 100 mg po in the evening
+Levothyroxine (LEVOXYL) 150 mcg Oral Tablet 1 tablet po qd
+Fluticasone 50 mcg/Actuation Nasal Spray, Suspension 1 spray in
+each nostril once daily
+Urea (CARMOL 40) 40 % Topical Cream apply [**Hospital1 **] to feet as
+directed
+MULTIVITAMIN
+Vitamin D 1000 Units
+
+
+Discharge Medications:
+1. levothyroxine 150 mcg Tablet Sig: One (1) Tablet PO once a
+day.
+2. metoprolol succinate 100 mg Tablet Extended Release 24 hr
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).
+3. cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours) for 2 days.
+Disp:*6 Capsule(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+High grade AV block s/p dual chamber pacemaker
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Dear Ms [**Known lastname **],
+
+It was a pleasure taking care of you at the [**Hospital1 18**]. You presented
+with problems with your heart rhythm causing you to blackout.
+You were admitted and got a permanent pacemaker which should
+prevent such episodes from happening. You were discharged home
+with followup with your cardiologist, Dr [**First Name (STitle) **], and some
+medicine changes.
+
+The following changes were made to your medications:
+START Keflex 500 mg Q8h for 2 days
+
+Followup Instructions:
+Please call [**Telephone/Fax (1) 85716**] to set up an appointment with Dr.
+[**Last Name (STitle) **].
+Please follow up with Dr. [**First Name (STitle) **] next week"
+case_019,"subject_id=59402 | hadm_id=171805
+
+Admission Date:  [**2164-5-3**]              Discharge Date:   [**2164-5-7**]
+
+Date of Birth:  [**2087-6-21**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Valium
+
+Attending:[**First Name3 (LF) 425**]
+Chief Complaint:
+ICD misfiring
+
+Major Surgical or Invasive Procedure:
+ICD extraction
+
+
+History of Present Illness:
+76 year old woman with HCM, s/p ICD implant in [**2160**], moderate
+MR, hypertension, now with ICD lead fracture requiring
+extraction. Her device has not caused her any problems up until
+[**4-29**], when her ICD spontaneously fired 3-4 times while eating
+lunch. She felt well before and after these shocks.
+.
+She presented to OSH. While in the ED, she had repeated ICD
+shocks while in NSR. The device was deactivated.  Her device was
+interrogated at the OSH. She was transferred to [**Hospital1 18**] for lead
+extraction.
+.
+
+She is without chest pain, palpitations, shortness of breath, or
+lightheadedness. At baseline, she gets short of breath with 1-2
+flights of stiars. No PND. No LE edema at baseline.
+
+
+Past Medical History:
+1. CARDIAC RISK FACTORS: - Diabetes, - Dyslipidemia, +
+Hypertension
+2. CARDIAC HISTORY:
+-CABG: none
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+-PACING/ICD: [**2163-5-26**] [**First Name8 (NamePattern2) **] [**Male First Name (un) 923**] 2 V243 dual chamber ICD
+3. OTHER PAST MEDICAL HISTORY:
+HOCM
+Moderate MR
+H/o benign pulmonary nodules
+H/o appendectomy, hysterectomy and oopherectomy
+
+
+Social History:
+ Lives alone in a seniors apartment.
+-Tobacco history: None
+-ETOH: None
+-Illicit drugs: None
+
+
+Family History:
+Father died of heart attack at age 80. Maternal uncle died in
+his teens of heart condition (unknown).
+
+
+Physical Exam:
+VS: T=98.4 BP=155/79 HR=82 RR=18 O2 sat= 97% on RA
+GENERAL: WDWN female in NAD. Oriented x3. Mood, affect
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple with JVP of at clavicle.
+CARDIAC: PMI located in 5th intercostal space, midclavicular
+line. RR, normal S1, S2. Harsh [**2-24**] early peaking systolic murmur
+loudest at LUSB. Blowing 4/6 systolic murmur at apex.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: Warm well perfused. No edema.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right:  DP 2+ PT 2+
+Left:  DP 2+ PT 2+
+
+
+Pertinent Results:
+[**2164-5-3**] 07:14PM BLOOD WBC-11.4* RBC-3.83* Hgb-11.2* Hct-33.3*
+MCV-87 MCH-29.2 MCHC-33.6 RDW-13.6 Plt Ct-219
+[**2164-5-4**] 05:25AM BLOOD WBC-8.7 RBC-3.75* Hgb-10.8* Hct-32.7*
+MCV-87 MCH-28.7 MCHC-32.9 RDW-13.5 Plt Ct-212
+[**2164-5-4**] 05:25AM BLOOD PT-12.9 PTT-25.6 INR(PT)-1.1
+[**2164-5-4**] 05:25AM BLOOD Plt Ct-212
+[**2164-5-3**] 07:14PM BLOOD Glucose-190* UreaN-26* Creat-0.8 Na-141
+K-3.6 Cl-106 HCO3-25 AnGap-14
+[**2164-5-4**] 05:25AM BLOOD Glucose-86 UreaN-22* Creat-0.6 Na-142
+K-4.3 Cl-110* HCO3-23 AnGap-13
+[**2164-5-3**] 07:14PM BLOOD Calcium-9.3 Phos-3.3 Mg-2.2
+[**2164-5-4**] 05:25AM BLOOD Calcium-8.7 Phos-3.4 Mg-2.1
+
+[**5-3**] CXR
+FINDINGS: Consistent with the given history, a dual-chamber
+pacemaker/AICD is
+noted in standard position from a left subclavian approach.
+Please note there
+is suggestion of more proximal migration of the defibrillator
+leads. Lungs
+are clear without consolidation or edema. There is a small
+hiatal hernia. No
+effusion or pneumothorax is noted. Mild degeneration is noted
+throughout the
+thoracic spine. There is atheromatous disease of the aorta. The
+cardiac
+silhouette is borderline enlarged.
+
+IMPRESSION: No acute pulmonary process. Incidental findings as
+above.
+
+[**2164-5-5**] 05:03AM BLOOD WBC-12.4* RBC-2.92* Hgb-8.7* Hct-25.3*
+MCV-87 MCH-29.8 MCHC-34.4 RDW-13.6 Plt Ct-208
+[**2164-5-6**] 04:14AM BLOOD WBC-9.5 RBC-3.44* Hgb-10.2* Hct-30.2*
+MCV-88 MCH-29.7 MCHC-33.8 RDW-14.1 Plt Ct-176
+[**2164-5-7**] 06:15AM BLOOD WBC-9.1 RBC-3.45* Hgb-10.1* Hct-30.6*
+MCV-89 MCH-29.2 MCHC-33.0 RDW-14.2 Plt Ct-212
+[**2164-5-7**] 06:15AM BLOOD PT-13.0 PTT-29.5 INR(PT)-1.1
+[**2164-5-7**] 06:15AM BLOOD Plt Ct-212
+[**2164-5-6**] 04:14AM BLOOD Glucose-110* UreaN-12 Creat-0.6 Na-141
+K-3.5 Cl-111* HCO3-23 AnGap-11
+[**2164-5-7**] 06:15AM BLOOD Glucose-91 UreaN-10 Creat-0.5 Na-143
+K-3.8 Cl-111* HCO3-24 AnGap-12
+[**2164-5-7**] 06:15AM BLOOD Calcium-8.2* Phos-2.3* Mg-2.1
+[**2164-5-4**] 05:38PM BLOOD Glucose-92 Lactate-1.2 Na-137 K-3.8
+Cl-106
+
+[**5-5**] Echo
+The left atrium is moderately dilated. There is mild symmetric
+left ventricular hypertrophy with normal cavity size. Left
+ventricular systolic function is hyperdynamic (EF>75%). There is
+valvular [**Male First Name (un) **] with a severe resting left ventricular outflow
+tract obstruction (>64mmHg). Right ventricular chamber size and
+free wall motion are normal. The aortic valve leaflets (?#)
+appear structurally normal with good leaflet excursion. No
+aortic regurgitation is seen.The mitral valve leaflets are
+mildly thickened. There is systolic anterior motion of the
+mitral valve leaflets. At least moderate (2+) mitral
+regurgitation is seen. There is an anterior space which most
+likely represents a fat pad.
+
+IMPRESSION: Suboptimal image quality. Hypertrophic obstructive
+cardiomyopathy. At least moderate mitral regurgitation.
+
+[**5-6**] CXR
+The heart size is top normal. Mediastinal position, contour and
+width are
+unremarkable. The pacemaker leads terminate in right atrium and
+right
+ventricle, unchanged in appearance since the prior study. Within
+the
+limitations of this study technique, no break within the leads
+was
+demonstrated. Lungs are essentially clear except for right
+basilar opacities
+that might represent an area of atelectasis, although attention
+to this area
+should be paid to exclude developing infection. Left basal
+linear atelectasis
+is new.
+
+
+Brief Hospital Course:
+76 yo F with h/o HOCM, s/p ICD placement in [**2160**], now with ICD
+misfiring, transferred for lead extraction.
+
+Pt was transferred to CCU on [**5-4**] after lead extraction. She was
+extubated after lead extraction without complication and was
+admitted to the CCU brief post-op monitoring. CXR showed no
+evidence of hemo/pneumothorax. TTE to assess for pericardial
+effusion s/p pacer lead removal showed mild symmetric LVH,
+severe resting LVOT obstruction (>64mmHg), 2+ MR. [**First Name (Titles) 47652**] [**Last Name (Titles) 47653**]d from 33.3 to 25.3 to 23.8 and then trended up after 2 U
+PRBC to 29.3 and then 30.2. Patient developed eccymosis of the
+LEFT breast that was stable prior to transfer back the
+cardiology floor. Patient was started on po keflex for planned 7
+day course. Plan for follow up with Dr. [**Last Name (STitle) **] in 1 week in
+device clinic.
+
+
+Medications on Admission:
+Omeprazole 10mg po bid
+ASA 81mg po daily
+Verapamil 240mg po daily
+[**Doctor First Name **] 60mg po bid
+Crestor 10mg po daily
+Evista 50mg po daily
+Quinapril 10mg po bid
+
+
+Discharge Medications:
+1. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+2. Raloxifene 60 mg Tablet Sig: One (1) Tablet PO daily ().
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+4. Verapamil 240 mg Tablet Sustained Release Sig: One (1) Tablet
+Sustained Release PO Q24H (every 24 hours).
+5. Fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times
+a day) as needed for allergies.
+6. Rosuvastatin 20 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+7. Quinapril 20 mg Tablet Sig: 0.5 Tablet PO BID (2 times a
+day).
+8. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q6H (every
+6 hours) for 5 days: Final dose on Friday [**5-11**].
+Disp:*20 Capsule(s)* Refills:*0*
+9. Outpatient Lab Work
+Please have your HCT checked on [**5-9**].
+10. Device check
+Please have your device checked on Friday [**5-11**]
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+VNA Assoc. of [**Hospital3 **]
+
+Discharge Diagnosis:
+Primary diagnosis:
+1. ICD malfunction
+Secondary diagnosis:
+Hypertrophic obstructive cardiomyopathy
+Hypertension
+
+
+Discharge Condition:
+Hemodynamically stable. HCT 30.6
+
+
+Discharge Instructions:
+You were admitted after your ICD misfired. You had a lead
+extraction performed by electrophysiology.  The procedure was
+uncomplicated. We started you on Keflex antibiotics after this
+procedure. The final day of antibiotics will be Friday [**5-11**].
+
+
+We did not make any other changes to your medications.
+
+If you have palpitations, chest pain, shortness of breath, or
+your ICD fires again, please call your cardiologist or go to the
+emergency department.
+
+Followup Instructions:
+Please follow up with Dr. [**Last Name (STitle) 47654**] in [**12-23**] weeks.
+
+You will need to have your device checked on Friday [**5-11**].
+Please call your Cardiologist for this.
+
+
+
+Completed by:[**2164-5-7**]"
+case_020,"subject_id=66649 | hadm_id=157838
+
+Admission Date:  [**2158-4-16**]              Discharge Date:   [**2158-4-18**]
+
+Date of Birth:  [**2073-12-25**]             Sex:   M
+
+Service: MEDICINE
+
+Allergies:
+No Known Allergies / Adverse Drug Reactions
+
+Attending:[**First Name3 (LF) 7333**]
+Chief Complaint:
+complete heart block
+
+Major Surgical or Invasive Procedure:
+St. [**Male First Name (un) 923**] Dual Chamber Pacemaker Placement
+
+
+History of Present Illness:
+Mr. [**Known firstname **] [**Known lastname **] is a 84 year old Chinese-speaking male with a PMH
+of HTN, CAD, DM2 transferred from NEBH for further evaluation
+and management of complete heart block.  History obtained from
+the patient and his son who assisted in translating.
+.
+Briefly, he presented to NEBH earlier today after noting
+increased fatigue, bilateral leg swelling, and dizziness for the
+past week.  He has noticed a slight increased work of breathing.
+ He denies any chest pain or pressure or palpitations.  At NEBH
+initial VS were HR 36, BP 227/64, RR 18, O2 sat 100% RA.  EKG
+demonstrated complete heart block.  He received 2-inches nitro
+paste and also Vasotec 1.25 mg IV.  BP came down to 180/55 and
+heart rate remained between 30-40 bpm.
+.
+On review of systems, he has a history of prior stroke in the
+[**2137**] from which he has completely recovered.  He has some
+occasional nausea relieved by his PPI.  He has chronic myalgias
+and lower extremity pain from peripheral neuropathy as well as
+chronic constipation (last BM yesterday).  He denies any prior
+history of deep venous thrombosis, pulmonary embolism, bleeding
+at the time of surgery, cough, hemoptysis, black stools or red
+stools. He denies recent fevers, chills or rigors. All of the
+other review of systems were negative.
+
+Past Medical History:
+PAST MEDICAL HISTORY:
+1. CARDIAC RISK FACTORS: + Diabetes, + Dyslipidemia, +
+Hypertension
+2. CARDIAC HISTORY:
+-PERCUTANEOUS CORONARY INTERVENTIONS:
+Stent to LCX [**2139**], stent LAD [**2142**].  Cath in [**2142**] showed total
+occlusion of the RCA with L->R collaterals, primarily from the
+left
+circumflex.
+3. OTHER PAST MEDICAL HISTORY:
+- CAD
+- Hypertension.
+- High cholesterol.
+- Status/post CVA [**2137**].  Full recovery per son.
+- DM2, on oral agents only.
+- Gastroesophageal reflux disease.
+- Hx GI bleed with question of gastric polyp.
+- Chronic renal insufficiency
+- Traumatic subarachnoid hemorrhage [**2155**]
+
+Social History:
+Originally from [**Country 651**].  Lives with his wife.  Quit smoking over
+20 years ago.  Rare drinks alcohol.  Patient planning to go to a
+traditional Chinese wedding on Friday that requires air travel.
+
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death; otherwise non-contributory.
+
+Physical Exam:
+Admission:
+VS: T=99.2 BP=202/50 HR=32 RR=14 O2 sat=100% RA
+GENERAL: WDWN elderly male in NAD. Mood, affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.
+
+NECK: Supple, no LAD.  JVP not elevated.
+CARDIAC: Bradycardic, regular rhythm, normal S1, S2. No m/r/g.
+No thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. CTAB, no crackles,
+wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not
+enlarged by palpation. No abdominal bruits.
+EXTREMITIES: 1+ edema at ankles bilaterally.  No clubbing or
+cyanosis.  No femoral bruits.
+SKIN: Bilateral petechiae of the lower legs. No stasis
+dermatitis, ulcers, scars, or xanthomas.
+PULSES:
+Right: Carotid 2+ Femoral 2+ Radial 2+ DP 1+
+Left: Carotid 2+ Femoral 2+ Radial 2+ DP 1+
+
+
+Pertinent Results:
+[**2158-4-18**] 04:30AM BLOOD CK-MB-4 cTropnT-0.06*
+
+[**2158-4-18**] 04:30AM BLOOD Calcium-8.7 Phos-4.1 Mg-2.0
+
+[**2158-4-18**] 04:30AM BLOOD Glucose-247* UreaN-17 Creat-1.3* Na-138
+K-3.8 Cl-104 HCO3-24 AnGap-14
+
+[**2158-4-18**] 04:30AM BLOOD PT-12.8 PTT-49.3* INR(PT)-1.1
+
+[**2158-4-18**] 04:30AM BLOOD WBC-8.3 RBC-3.91* Hgb-13.1* Hct-37.3*
+MCV-95 MCH-33.6* MCHC-35.2* RDW-13.2 Plt Ct-172
+
+Brief Hospital Course:
+Mr. [**Known lastname **] is a 84 year old male with a PMH of HTN, CAD, DM2
+transferred from NEBH for further evaluation and management of
+complete heart block treated with the placement of a dual
+chamber pacemaker.
+
+# RHYTHM:  Patient was admitted with HR in the 30s, likely a
+slow junctional escape rhythm with compelete AV dissociation. As
+he also had hypertension, suggesting that the rhtyhm was not
+compensated. He had a dual chamber pacemaker placed on [**2158-4-17**].
+Post-procedue, he had a heart rate in the 70s and patient felt
+well. He tolerated pacemaker placement well. He was discharged
+on metoprolol succinate 25mg daily and will follow-up in device
+clinic in one week.
+
+# CORONARIES:  Patient has a history of CAD with a distant
+history of PCI. He denied any current symptoms of ischemia. He
+was continued on atorvastatin, aspirin and metoprolol.
+
+# PUMP:  He has no known history of CHF. He had an elevated BNP
+and mild pulmonary edema likely secondary to his slow heart rate
+and hypertension, however his lack of a supplemental oxygen
+requirement was reassuring. Post pacemaker placement he was
+breathing comfortably and ambulating well.
+
+# Hypertension: His hypertension was long-standing and likely
+acutely elevated on admission in the setting of bradycardia and
+was allowed permissive hypertension to ensure adequate perfusion
+in the setting of bradycardia.  He was continued on valsartan
+and was restarted on metoprolol. In addition, amlodipine 5mg
+daily was started for additional blood pressure control with
+appropriate response. This should be titrated as an outpatient.
+
+# Type 2 diabetes: Complicated by neuropathy and CRI.  His
+glimiperide was held during his admission and put on humalog ISS
+with fingersticks QID/ACHS. He was restarted on glimiperide on
+discharge.
+
+# Hyperlipidemmia: He was continued on his home atorvastatin.
+
+# Neuropathic pain: He was continued on his home lidocaine
+patches and neurontin.
+
+Medications on Admission:
+Glimeperide 10 mg daily
+Valsartan 160 mg daily
+Folate 1 mg daily
+Lidoderm patches 4 patches (2 to each leg) daily
+Lipitor 40 mg daily
+Neurontin 300 mg TID
+Protonix 40 mg daily
+Toprol XL 25 mg daily
+Colace prn
+
+Discharge Medications:
+1. valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+3. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).
+4. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+5. gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day).
+6. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+7. Toprol XL 25 mg Tablet Extended Release 24 hr Sig: One (1)
+Tablet Extended Release 24 hr PO once a day.
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+9. cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every
+8 hours) for 1 days.
+Disp:*3 Capsule(s)* Refills:*0*
+10. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+CareTenders- VNA
+
+Discharge Diagnosis:
+Complete Heart Block
+Cellulitis
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+
+Discharge Instructions:
+Mr. [**Known lastname **],
+
+You were admitted to the hospital for dizziness and fatigue. You
+were found to have an abnormal heart rhythm (complete heart
+block) which likely caused your symptoms. You were evaluated and
+treated by the cardiology service. You received a pacemaker to
+control your heart rhythm and you symptoms improved. You were
+also noted to have redness on your legs which was concerning for
+a skin infection (cellulitis) and you received antibiotics that
+improved the appearance of your skin. Please take your
+medications as prescribed and keep your outpatient appointments.
+
+
+The following changes have been made to your home medications.
+1. You have been STARTED on Amlodipine 5mg daily
+2. You have been STARTED on Cephalexin  500mg every 8 hours for
+1 day, you will only take three doses of this medication
+
+No other changes have been made to your home medications.
+
+Followup Instructions:
+Department: CARDIAC SERVICES
+When: WEDNESDAY [**2158-4-26**] at 10:00 AM
+With:  DEVICE CLINIC [**Telephone/Fax (1) 62**]
+Building: SC [**Hospital Ward Name 23**] Clinical Ctr [**Location (un) **]
+Campus: EAST     Best Parking: [**Hospital Ward Name 23**] Garage
+
+Name: [**Last Name (LF) **],[**First Name3 (LF) **] A.
+Location: [**Doctor Last Name **] BLDG, [**Apartment Address(1) 17383**]
+Address: [**Last Name (NamePattern1) 8541**], [**Location (un) **],[**Numeric Identifier 9749**]
+Phone: [**Telephone/Fax (1) 26860**]
+When: Tuesday, [**2158-5-2**]:15AM"
