@@ -40,6 +40,3 @@ Each polygon corresponds to a segmented tumor region.
 Author: Dr. Pradeep AI
 Project: Medical-AI-Data-Annotation
 Module: CT Brain Tumor – CVAT XML Format
-Direct visualization or reannotation in CVAT GUI
-
-Example usage to convert:
