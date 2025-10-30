@@ -1,0 +1,4 @@
+{"case_id":"case_001","specialty":"Cardiology","annotated_file":"cardio_cases_annotated.json","schema_version":"36_labels_v1","export_format":"doccano_json(v1)","qa_status":"PENDING"}
+{"case_id":"case_002","specialty":"Cardiology","annotated_file":"cardio_cases_annotated.json","schema_version":"36_labels_v1","export_format":"doccano_json(v1)","qa_status":"PENDING"}
+...
+{"case_id":"case_020","specialty":"Cardiology","annotated_file":"cardio_cases_annotated.json","schema_version":"36_labels_v1","export_format":"doccano_json(v1)","qa_status":"PENDING"}
