@@ -1,0 +1,290 @@
+[
+  {
+    "id": 5701,
+    "text": "Patient_Age",
+    "prefixKey": null,
+    "suffixKey": "a",
+    "backgroundColor": "#9E9FDA",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5702,
+    "text": "Patient_Gender",
+    "prefixKey": null,
+    "suffixKey": "g",
+    "backgroundColor": "#AAFCFC",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5703,
+    "text": "Medical_History",
+    "prefixKey": null,
+    "suffixKey": "h",
+    "backgroundColor": "#CD9B8E",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5704,
+    "text": "Social_History",
+    "prefixKey": null,
+    "suffixKey": "o",
+    "backgroundColor": "#D8BCA9",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5705,
+    "text": "Symptom",
+    "prefixKey": null,
+    "suffixKey": "s",
+    "backgroundColor": "#F9CDAB",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5706,
+    "text": "Anatomical_structure",
+    "prefixKey": null,
+    "suffixKey": "l",
+    "backgroundColor": "#9EBAFE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5707,
+    "text": "Medication_form",
+    "prefixKey": null,
+    "suffixKey": "u",
+    "backgroundColor": "#16A5A5",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5708,
+    "text": "Allergy_Intolerance",
+    "prefixKey": null,
+    "suffixKey": "v",
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5709,
+    "text": "Vital_Sign",
+    "prefixKey": null,
+    "suffixKey": "i",
+    "backgroundColor": "#A99AAE",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5710,
+    "text": "Examination_Finding",
+    "prefixKey": null,
+    "suffixKey": "e",
+    "backgroundColor": "#FA8BC8",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5711,
+    "text": "Test_Name",
+    "prefixKey": null,
+    "suffixKey": "n",
+    "backgroundColor": "#AED8E9",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5712,
+    "text": "Test_Result",
+    "prefixKey": null,
+    "suffixKey": "t",
+    "backgroundColor": "#9DBA8E",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5713,
+    "text": "Diagnosis",
+    "prefixKey": null,
+    "suffixKey": "d",
+    "backgroundColor": "#ED8AAB",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5714,
+    "text": "Differential_Diagnosis",
+    "prefixKey": null,
+    "suffixKey": "f",
+    "backgroundColor": "#9EB9BF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5715,
+    "text": "Medication",
+    "prefixKey": null,
+    "suffixKey": "m",
+    "backgroundColor": "#9DACA9",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5716,
+    "text": "Medication_Dose",
+    "prefixKey": null,
+    "suffixKey": "c",
+    "backgroundColor": "#B88BA9",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5717,
+    "text": "Medication_Route",
+    "prefixKey": null,
+    "suffixKey": "r",
+    "backgroundColor": "#9DE9FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5718,
+    "text": "Frequency",
+    "prefixKey": null,
+    "suffixKey": "q",
+    "backgroundColor": "#FDCCCB",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5719,
+    "text": "Duration",
+    "prefixKey": null,
+    "suffixKey": "y",
+    "backgroundColor": "#A99AA9",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5720,
+    "text": "Procedure",
+    "prefixKey": null,
+    "suffixKey": "p",
+    "backgroundColor": "#8F98EC",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5721,
+    "text": "Treatment_Plan",
+    "prefixKey": null,
+    "suffixKey": "w",
+    "backgroundColor": "#FCDD8F",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5722,
+    "text": "Temporal_Expression",
+    "prefixKey": null,
+    "suffixKey": "k",
+    "backgroundColor": "#C9D88B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5723,
+    "text": "Negation",
+    "prefixKey": null,
+    "suffixKey": "x",
+    "backgroundColor": "#D98BCD",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5724,
+    "text": "Severity_Modifier",
+    "prefixKey": null,
+    "suffixKey": "z",
+    "backgroundColor": "#AAA8BD",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5725,
+    "text": "Family history",
+    "prefixKey": null,
+    "suffixKey": "b",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5726,
+    "text": "Examination",
+    "prefixKey": null,
+    "suffixKey": "j",
+    "backgroundColor": "#A4DD00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5727,
+    "text": "Quantity",
+    "prefixKey": null,
+    "suffixKey": "0",
+    "backgroundColor": "#FA28FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5728,
+    "text": "Clinical_status",
+    "prefixKey": null,
+    "suffixKey": "1",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5729,
+    "text": "Clinical_instruction",
+    "prefixKey": null,
+    "suffixKey": "2",
+    "backgroundColor": "#7B64FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5730,
+    "text": "Clinical_event",
+    "prefixKey": null,
+    "suffixKey": "3",
+    "backgroundColor": "#A4DD00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5731,
+    "text": "Investigation_type",
+    "prefixKey": null,
+    "suffixKey": "4",
+    "backgroundColor": "#16A5A5",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5732,
+    "text": "Investigation_value",
+    "prefixKey": null,
+    "suffixKey": "5",
+    "backgroundColor": "#FB9E00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5733,
+    "text": "Medical_device",
+    "prefixKey": null,
+    "suffixKey": "6",
+    "backgroundColor": "#FA28FF",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5734,
+    "text": "Risk_factor_Exposure",
+    "prefixKey": null,
+    "suffixKey": "7",
+    "backgroundColor": "#F44E3B",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5735,
+    "text": "Outcome_Prognosis",
+    "prefixKey": null,
+    "suffixKey": "8",
+    "backgroundColor": "#68BC00",
+    "textColor": "#ffffff"
+  },
+  {
+    "id": 5736,
+    "text": "Casual_Relation",
+    "prefixKey": null,
+    "suffixKey": "9",
+    "backgroundColor": "#73D8FF",
+    "textColor": "#ffffff"
+  }
+]
