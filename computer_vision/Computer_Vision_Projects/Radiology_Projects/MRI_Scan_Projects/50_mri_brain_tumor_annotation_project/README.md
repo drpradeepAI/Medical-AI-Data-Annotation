@@ -1,97 +1,97 @@
-# MRI Dataset – Brain Tumor Annotation Project
+# 🧠 MRI Brain Tumor Segmentation Dataset  
+**Medical AI Data Annotation Project**
 
-This folder contains a **comprehensive MRI brain tumor dataset**, including **raw scans, annotated data, metadata, and documentation screenshots**.  
-It demonstrates the complete data annotation pipeline for medical AI research and development.
+This folder hosts the **MRI Brain Tumor Segmentation Dataset**, containing raw MRI scans, annotated segmentation masks, metadata placeholders, and project documentation.  
+It demonstrates a complete medical imaging annotation pipeline built for AI research, model training, and education in radiology-based computer vision.
 
 ---
 
-## 🧠 Overview
+## 📘 Overview
 
-- **Modality:** MRI (Magnetic Resonance Imaging)  
-- **Anatomical Region:** Brain  
-- **Primary Condition:** Brain Tumor (includes normal and abnormal scans)  
-- **Data Purpose:** Model development for tumor detection, segmentation, and classification  
-- **Annotation Tool:** [CVAT – Computer Vision Annotation Tool](https://cvat.org/)  
-- **Exported Formats:** COCO, YOLO, CVAT XML, Segmentation Mask  
+| Attribute | Description |
+|------------|--------------|
+| **Modality** | MRI (Magnetic Resonance Imaging) |
+| **Region of Interest** | Brain |
+| **Primary Condition** | Brain Tumor (normal and abnormal cases included) |
+| **Annotation Type** | Pixel-wise segmentation masks (CLASS & OBJECT level) |
+| **Dataset Size** | 50 MRI images |
+| **Annotation Tool** | [CVAT – Computer Vision Annotation Tool](https://cvat.org/) |
+| **Export Formats** | CVAT XML, COCO JSON, YOLO TXT, Segmentation PNG |
+| **Primary Task** | Tumor segmentation and boundary delineation |
+| **Purpose** | Model development, benchmarking, and educational demonstrations |
 
-The dataset is structured for **multi-format interoperability**, making it directly usable with popular deep learning frameworks like PyTorch, TensorFlow, and MONAI.
+This dataset ensures **multi-format interoperability**, allowing seamless use across frameworks such as PyTorch, TensorFlow, MONAI, and Detectron2.
 
 ---
 
 ## 📁 Folder Structure
-mri/
-├── raw_data/ # Original unannotated MRI images
-├── annotated_data/ # Labeled data in multiple formats (COCO, YOLO, XML, Mask)
-├── metadata/ # Reserved for dataset descriptors, schema, and mapping files
-├── screenshots/ # Visual documentation and workflow PDFs
-└── README.md # This overview file
+
+50_mri_brain_tumor_annotation_project/
+├── raw_data/ # Unannotated MRI brain scans
+├── annotated_data/ # Labeled datasets (COCO, YOLO, XML, PNG)
+├── metadata/ # Schema, mappings, and dataset descriptors
+├── screenshots/ # Project documentation and workflow PDFs
+└── README.md # Current documentation file
 
 ---
 
 ## 🔍 Folder Descriptions
 
-### **1. raw_data/**
-Contains unannotated MRI scans used as base input for annotation.  
-Each image represents either a normal or tumor-affected brain region.  
+### 🩺 **1. raw_data/**
+Contains original, unannotated MRI brain scans — both normal and tumor-affected.  
+These serve as the foundation for annotation tasks.  
 ➡️ [View Raw Data](./raw_data)
 
 ---
 
-### **2. annotated_data/**
-Includes labeled MRI datasets exported in multiple annotation formats:
-- **COCO JSON** → Standard format for PyTorch/Detectron2  
-- **YOLO TXT** → Optimized for YOLOv5–YOLOv8 training  
-- **CVAT XML** → Editable format for re-import into CVAT  
-- **Segmentation Mask** → Pixel-level tumor boundaries  
+### 🧩 **2. annotated_data/**
+Includes labeled MRI scans exported in multiple formats:
+- **COCO JSON** → For PyTorch & Detectron2 pipelines  
+- **YOLO TXT** → For YOLOv5–YOLOv8 frameworks  
+- **CVAT XML** → Editable format for re-import to CVAT  
+- **Segmentation Masks (PNG)** → Pixel-wise tumor boundaries for segmentation tasks  
 
 ➡️ [View Annotated Data](./annotated_data)
 
 ---
 
-### **3. metadata/**
-Reserved for descriptive and structural metadata such as dataset schema, mapping tables, or version logs.  
-Currently contains only a `.keep` file, but intended for future dataset descriptors.  
+### 📑 **3. metadata/**
+Reserved for dataset-level descriptors and schema mappings.  
+Currently contains `.keep`, but future versions will include dataset dictionaries and class summaries.  
 ➡️ [View Metadata](./metadata)
 
 ---
 
-### **4. screenshots/**
-Contains **visual documentation**, including:
-- Project overview PDFs  
-- Annotation preview images  
-- Export configuration references  
-These files visually demonstrate the data pipeline and final outputs.  
+### 🖼️ **4. screenshots/**
+Contains **visual documentation** of the annotation workflow:
+- Project overview reports (PDF)  
+- Raw data samples  
+- Annotated examples  
+- Export summaries  
+
 ➡️ [View Screenshots](./screenshots)
 
 ---
 
 ## ⚙️ Data Preparation Workflow
 
-1. **Data Collection:** MRI brain scans curated from open-access medical datasets.  
-2. **Annotation:** Conducted via CVAT with class-level (tumor/background) and object-level segmentation.  
-3. **Export & Validation:** Annotations exported to COCO, YOLO, XML, and mask formats.  
-4. **Documentation:** Screenshots and PDFs created to ensure reproducibility.  
+| Step | Process | Tool/Output |
+|------|----------|-------------|
+| **1. Data Collection** | MRI brain scans curated from medical imaging datasets | DICOM → PNG |
+| **2. Manual Annotation** | Tumor segmentation performed using CVAT (polygon/brush tools) | CVAT |
+| **3. Export & Conversion** | Annotations exported in multiple formats (COCO, YOLO, XML, PNG) | CVAT Export |
+| **4. Documentation** | Workflow screenshots and reports generated | PDF, PNG |
+| **5. Validation** | Visual and logical QA of segmentation masks | Human + Automated checks |
 
 ---
 
-## 🧩 Compatibility
+## 🧠 Applications
 
-| Framework | Supported Format | Folder |
-|------------|------------------|--------|
-| PyTorch / Detectron2 | COCO JSON | `annotated_data/COCO` |
-| Ultralytics YOLOv5–v8 | YOLO TXT | `annotated_data/YOLO` |
-| CVAT | XML | `annotated_data/cvat_xml` |
-| MONAI / U-Net | PNG Masks | `annotated_data/segmentation_mask` |
-
----
-
-## 💡 Applications
-
-- Brain tumor detection and localization  
-- Tumor segmentation and boundary extraction  
-- Cross-format dataset conversion testing  
-- AI-assisted medical imaging workflows  
-- Annotation tool benchmarking  
+- Tumor boundary segmentation and morphology analysis  
+- AI model development for radiology diagnostics  
+- Annotation workflow benchmarking  
+- Cross-format dataset conversion research  
+- Educational demonstrations for medical AI training  
 
 ---
 
@@ -99,25 +99,43 @@ These files visually demonstrate the data pipeline and final outputs.
 
 | Task | Tool |
 |------|------|
-| Annotation | [CVAT](https://cvat.org/), Label Studio |
-| Visualization | FiftyOne, Roboflow |
-| Model Training | YOLOv8, Detectron2, MONAI |
-| Format Conversion | Label Studio Converter, CVAT Exporter |
+| Annotation | CVAT, ITK-SNAP, 3D Slicer |
+| Visualization | FiftyOne, Roboflow, matplotlib |
+| Model Training | MONAI, U-Net, nnU-Net, Detectron2 |
+| Format Conversion | CVAT Exporter, Roboflow |
+| Evaluation | Dice Coefficient, IoU, Hausdorff Distance |
 
 ---
 
-## 📜 License
+## 🧩 Compatibility
 
-This dataset and its documentation are released under an **Open Data License**  
-for **educational and non-commercial research purposes**.  
-Ensure compliance with ethical and privacy guidelines in medical data use.
+| Framework | Format | Folder |
+|------------|---------|--------|
+| PyTorch / Detectron2 | COCO JSON | `annotated_data/COCO` |
+| YOLOv5–YOLOv8 | YOLO TXT | `annotated_data/YOLO` |
+| CVAT | XML | `annotated_data/cvat_xml` |
+| MONAI / U-Net | Segmentation PNG | `annotated_data/segmentation_mask` |
 
 ---
 
-## 🧾 Citation
+## 📜 License & Usage
 
-If you use this dataset or its structure in your work, please cite:
+This dataset is released for **research and educational purposes** under an **Open Data License**.  
+Users must follow medical data ethics, privacy standards, and institutional research guidelines.
 
-> “Medical-AI-Data-Annotation: MRI Brain Tumor Dataset (2025)”  
-> Created by Dr. Pradeep A.I.  
-> [GitHub Repository](https://github.com/drpradeepAI/Medical-AI-Data-Annotation)
+---
+
+## 🔖 Citation (Suggested)
+
+> **Dr. Pradeep AI**  
+> *Medical-AI-Data-Annotation: MRI Brain Tumor Segmentation Dataset*, 2025.  
+> GitHub Repository: [https://github.com/drpradeepAI/Medical-AI-Data-Annotation](https://github.com/drpradeepAI/Medical-AI-Data-Annotation)
+
+---
+
+## 🧾 Version Control
+
+| Version | Date | Description |
+|----------|------|-------------|
+| **1.0** | 2025-10 | Initial release: 50 MRI brain scans with segmentation and multi-format exports |
+| **1.1 (Planned)** | 2026-Q1 | Addition of COCO-style mask JSON and expanded metadata descriptors |
