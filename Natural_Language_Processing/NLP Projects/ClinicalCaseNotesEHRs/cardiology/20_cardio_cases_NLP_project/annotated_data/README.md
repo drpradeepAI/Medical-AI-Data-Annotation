@@ -1,33 +1,35 @@
-# 🧠 Annotated Data – Cardiology Clinical Case Notes
+# 🧠 Annotated Data — Cardiology Clinical Case Notes
 
-This folder contains the **final annotated dataset** for 20 cardiology electronic health record (EHR) cases.  
-All annotations were performed manually using **Doccano**, following a structured 36-label entity schema designed for medical NLP tasks.
+This folder contains the **final manually annotated dataset** for **20 cardiology Electronic Health Record (EHR)** cases.  
+Annotations were performed using **[Doccano](https://github.com/doccano/doccano)**, following a standardized **36-label medical entity schema** optimized for **clinical NLP model training and evaluation**.
 
 ---
 
 ## 📂 File Description
 
-| File | Description |
-|------|--------------|
-| `20 cardio cases annotated data in jsonl.jsonl` | Exported Doccano annotations in JSONL format. Each line represents one annotated case note with named entities tagged for NLP model training. |
+| File Name | Description |
+|------------|--------------|
+| `20_cardio_cases_annotated_data_in_jsonl.jsonl` | Final Doccano export file containing 20 annotated cardiology case notes. Each line represents one EHR entry with entities labeled for NER model development. |
 
 ---
 
-## 🧩 Annotation Details
+## ⚙️ Annotation Specifications
 
-- **Annotation Tool:** Doccano (v1.x)  
-- **Annotation Type:** Named Entity Recognition (NER)  
-- **Format:** JSONL (Doccano export format)  
-- **Labels Used:** 36 medical entity labels (see `label_schema/label_config_36_final.json`)  
-- **Number of Cases:** 20  
-- **Language:** English  
-- **Annotator:** Dr. Pradeep (drpradeepAI)
+| Parameter | Details |
+|------------|----------|
+| **Tool Used** | Doccano (v1.x) |
+| **Annotation Type** | Named Entity Recognition (NER) |
+| **Export Format** | JSONL |
+| **Entity Schema** | 36-label schema (`label_schema/label_config_36_final.json`) |
+| **Cases Annotated** | 20 Cardiology Case Notes |
+| **Language** | English |
+| **Annotator** | [drpradeepAI](https://github.com/drpradeepAI) |
 
 ---
 
-## 🧠 Data Schema Example
+## 🧩 Example JSONL Structure
 
-Below is a simplified example of the JSONL structure:
+A simplified view of one annotated record:
 
 ```json
 {
@@ -39,3 +41,27 @@ Below is a simplified example of the JSONL structure:
     [80, 87, "Test_Result"]
   ]
 }
+💡 Key Highlights
+
+Granular medical entity tagging for clinical text intelligence
+
+Schema aligned with medical terminology for AI/NLP standardization
+
+Quality checked manually for entity accuracy and context relevance
+
+Interoperable format (JSONL) compatible with major ML frameworks
+
+🩺 Context
+
+This dataset is part of the
+👉 20_Cardio_Cases_NLP_Project
+
+within the Cardiology domain of
+👉 ClinicalCaseNotesEHRs
+ under the
+👉 Natural_Language_Processing
+ module of
+the Medical-AI-Data-Annotation
+ repository.
+
+⭐ If you use this dataset or structure for your own projects, please credit drpradeepAI.
